@@ -6,7 +6,7 @@ Welcome to my homepage!
 I'm Shun Ishii (石井竣), a JSPS Research Fellow at Keio University. I have much interested in Galois groups and fundamental groups.
 
 
-I'm broadly interested in the arithmetic aspects of low-dimensional objects, such as algebraic curves and Drinfeld modules. Currently I'm thinking about the Galois actions on the fundamental groups of once-punctured elliptic curves.
+Currently I'm thinking about the Galois actions on the fundamental groups of once-punctured elliptic curves. Broadly speaking, my research interests are arithmetic and geometric aspects of low-dimensional objects, such as algebraic curves and Drinfeld modules.
 
 email address : (my lastname).(my firstname)@keio.jp
 
@@ -37,7 +37,7 @@ email address : (my lastname).(my firstname)@keio.jp
 
 4. 2020.12.04, Algebraic Number Theory and Related Topics 2020 [(URL)](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), Research Institute for Mathematical Sciences (RIMS), Drinfeld加群の$¥mathfrak{p}$冪ねじれ点に対する普遍上界予想について.
 
-3. 2020.09.11, 19th Sendai-Hiroshima Number Theory Conference [(URL)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima20.html), On a variant of the uniform boundedness conjecture for Drinfeld modules.
+3. 2020.09.11, 19th Sendai-Hiroshima Number Theory Conference [(URL)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima20.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
 
 2. 2020.08.21, 2nd Kyoto-Hefei Workshop on Arithmetic Geometry [(URL)](https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Kyoto-Hefei-2nd.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
 
