@@ -1,18 +1,24 @@
 This is a test page.
 
 
+Welcome to Shun Ishii's homepage!
 
 
-# Papers
+
+## Papers
+
+2. On
+
+1. On isogeny characters of Drinfeld modules of rank two
+
+
+## Preprints
+
 2.
+
 1.
 
-
-# Preprints
-2.
-1.
-
-# Talks
+## Talks
 
 
 ## CV
@@ -32,7 +38,7 @@ MC : March 2020, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
 DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
-     Doctoral thesis :
+     Doctoral thesis : A study on the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves for ordinary primes
 
 ## Education
 2011.4 - 2014.3 : Kawagoe High School.
