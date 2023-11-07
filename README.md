@@ -3,19 +3,19 @@
 Welcome to Shun Ishii's homepage!
 
 ## About me
-I'm Shun Ishii, a JSPS Research Fellow (PD) at Keio University (Host : Prof. Kenichi Bannai). I have much interest in Galois groups and fundamental groups.
+I'm Shun Ishii, a JSPS Research Fellow (PD) at Keio University. I have much interest in Galois groups and fundamental groups.
+
+Currently, I'm thinking about the arithmetic aspects of the Galois actions on the fundamental groups of once-punctured elliptic curves.
 
 email address : (my lastname).(my firstname)@keio.jp
 
 
 ## Papers
-2. The $mathfrak{p}$-primary-primary Uniform Boundedness Conjecture for Drinfeld Modules
+3. The $mathfrak{p}$-primary-primary Uniform Boundedness Conjecture for Drinfeld Modules, accepted for publication in International Journal of Number Theory.
 
-   ・accepted for publication in International Journal of Number Theory.
+2. (survey article, in japanese), accepted for publication in RIMS Kokyuroku Bessatsu.
 
-1. On isogeny characters of Drinfeld modules of rank two
-
-   ・Mathematische Zeitschrift,**301**, 455–470 (2022), available at [here](https://link.springer.com/article/10.1007/s00209-021-02921-5).
+1. On isogeny characters of Drinfeld modules of rank two, Mathematische Zeitschrift,**301**, 455–470 (2022), available at [here](https://link.springer.com/article/10.1007/s00209-021-02921-5).
 
 
 ## Preprints
@@ -47,6 +47,6 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 2020.4 - 2023.3 : Graduate school of Science, Kyoto University (doctor course)
 
 ## Professional Experience
-2021.4 - 2023.3 : Research Fellow of the Japan Society for the Promotion of Science (DC2)
+2021.4 - 2023.3 : Research Fellow of the Japan Society for the Promotion of Science (DC2), Host : Prof. Akio Tamagawa (RIMS).
 
-2023.4 - 2026.3 (expected) : Research Fellow of the Japan Society for the Promotion of Science (PD)
+2023.4 - 2026.3 (expected) : Research Fellow of the Japan Society for the Promotion of Science (PD), Host : Prof. Kenichi Bannai (Keio).
