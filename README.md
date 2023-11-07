@@ -2,10 +2,8 @@
 
 Welcome to Shun Ishii's homepage!
 
-## Shun Ishii
-I am a JSPS Research Fellow (PD) at Keio University.
-
-I have much interest in Galois groups and fundamental groups.
+## About me
+I'm Shun Ishii, a JSPS Research Fellow (PD) at Keio University (Host : Prof. Kenichi Bannai). I have much interest in Galois groups and fundamental groups.
 
 email address : (my lastname).(my firstname)@keio.jp
 
@@ -13,13 +11,17 @@ email address : (my lastname).(my firstname)@keio.jp
 ## Papers
 2. The $mathfrak{p}$-primary-primary Uniform Boundedness Conjecture for Drinfeld Modules
 
+   ・accepted for publication in International Journal of Number Theory.
+
 1. On isogeny characters of Drinfeld modules of rank two
+
+   ・Mathematische Zeitschrift,**301**, 455–470 (2022), available at [here](https://link.springer.com/article/10.1007/s00209-021-02921-5).
 
 
 ## Preprints
-2.
+2. A second half of the thesis, to appear.
 
-1.
+1. A first half of the thesis, to appear.
 
 ## Talks
 
