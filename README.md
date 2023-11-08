@@ -4,8 +4,8 @@ Welcome to my homepage!
 
 ## About me
 I'm Shun ISHII (石井竣), a JSPS Research Fellow at Keio University.
-<img src="DSC_2383.jpeg" width="20%">
 
+<img src="DSC_2383.jpeg" width="20%">
 
 I have much interested in Galois groups and fundamental groups. Currently I'm thinking about the Galois actions on the fundamental groups of once-punctured elliptic curves.
 
