@@ -4,7 +4,6 @@ Welcome to my homepage!
 
 ## About me
 I'm Shun ISHII (石井竣), a JSPS Research Fellow at Keio University.
-
 <img src="DSC_2383.jpeg" width="20%">
 
 
