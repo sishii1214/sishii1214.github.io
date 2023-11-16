@@ -22,9 +22,10 @@ email address : (my lastname).(my firstname)@keio.jp
 
 
 ## Preprints
-2. A second half of the thesis, to appear.
+2. On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, ~40 pages, to appear.
 
-1. A first half of the thesis, to appear.
+1. On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, ~30 pages, to appear.
+
 
 ## Talks (date/name/place/title)
 9. 2023.09.26, MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory [(URL)](https://ahgt.math.cnrs.fr/activities/workshops/MFO-RIMS23/), Research Institute for Mathematical Sciences (RIMS) and Oberwolfach Research Institute for Mathematics (MFO), On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
