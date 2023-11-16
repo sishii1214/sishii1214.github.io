@@ -48,7 +48,7 @@ BC : March 2018, Keio University (supervisor : Prof. Kenichi Bannai)
 
 MC : March 2020, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
-     Master thesis : The $mathfrak{p}$-primary-primary Uniform Boundedness Conjecture for Drinfeld Modules
+     Master thesis : The $mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules
 
 DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
