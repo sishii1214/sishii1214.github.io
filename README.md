@@ -10,9 +10,9 @@ email address : (my lastname).(my firstname)@keio.jp
 
 
 ## Papers
-3. The $mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, accepted for publication in International Journal of Number Theory.
+3. The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, accepted for publication in International Journal of Number Theory.
 
-2. Drinfeld加群の$¥mathfrak{p}$冪ねじれ点に対する普遍上界予想について (survey article written in japanese), accepted for publication in RIMS Kokyuroku Bessatsu.
+2. Drinfeld加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について (survey article written in japanese), accepted for publication in RIMS Kokyuroku Bessatsu.
 
 1. On isogeny characters of Drinfeld modules of rank two, Mathematische Zeitschrift,**301**, 455–470 (2022), available at [here](https://link.springer.com/article/10.1007/s00209-021-02921-5).
 
@@ -48,7 +48,7 @@ BC : March 2018, Keio University (supervisor : Prof. Kenichi Bannai)
 
 MC : March 2020, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
-     Master thesis : The $mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules
+     Master thesis : The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules
 
 DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
