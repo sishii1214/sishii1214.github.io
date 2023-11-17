@@ -34,7 +34,7 @@ email address : (my lastname).(my firstname)@keio.jp
 
 5. 2022.02.07, Mathsci Freshman Seminor 2022 (第5回数理新人セミナー) [(URL)](https://sites.google.com/view/math-graduate/MATHSCI-FRESHMAN-SEMINAR/2022/プログラム及びアブストラクト), online, 虚数乗法を持つ楕円曲線引く原点の副$p$外Galois 表現から生じる指標について.
 
-4. 2020.12.04, Algebraic Number Theory and Related Topics 2020 [(URL)](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), Research Institute for Mathematical Sciences (RIMS), Drinfeld加群の$¥mathfrak{p}$冪ねじれ点に対する普遍上界予想について.
+4. 2020.12.04, Algebraic Number Theory and Related Topics 2020 [(URL)](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), Research Institute for Mathematical Sciences (RIMS), Drinfeld加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について.
 
 3. 2020.09.11, 19th Sendai-Hiroshima Number Theory Conference [(URL)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima20.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
 
