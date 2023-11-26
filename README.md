@@ -18,9 +18,9 @@ email address : (my lastname).(my firstname)@keio.jp
 
 
 ## Preprints
-2. On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, 37 pages, submitted, available at [here](_papers/On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves.pdf).
+2. On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, 37 pages, submitted, available at [here](_papers/On-the-kernels-of-the-pro-p-outer-Galois-representations-associated-to-once-punctured-CM-elliptic-curves.pdf).
 
-1. On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, 30 pages, submitted, available at [here](_papers/On Kummer characters arising from Galois actions on the pro-p fundamental groups of once-punctured CM elliptic curves.pdf).
+1. On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, 30 pages, submitted, available at [here](_papers/On-Kummer-characters-arising-from-Galois-actions-on-the-pro-p-fundamental-groups-of-once-punctured-CM-elliptic-curves.pdf).
 
 
 ## Talks (date/name/place/title)
