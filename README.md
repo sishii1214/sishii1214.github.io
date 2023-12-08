@@ -36,7 +36,7 @@ email address : (my lastname).(my firstname)@keio.jp
 
 14. 2020.12.04, Algebraic Number Theory and Related Topics 2020 [(link)](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), Research Institute for Mathematical Sciences (RIMS), Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について.
 
-15. 2020.09.11, 19th Sendai-Hiroshima Number Theory Conference [(URL)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima20.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
+15. 2020.09.11, 19th Sendai-Hiroshima Number Theory Conference [(link)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima20.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
 
 16. 2020.08.21, 2nd Kyoto-Hefei Workshop on Arithmetic Geometry [(link)](https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Kyoto-Hefei-2nd.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
 
