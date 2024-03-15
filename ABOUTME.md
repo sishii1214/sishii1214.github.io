@@ -4,11 +4,11 @@ title: "about me"
 permalink: /aboutme
 ---
 
-**Name** Shun, Ishii
+**Name:** Shun Ishii.
 
-**Birthdate** December 14, 1995.
+**Birthdate:** December 14, 1995.
 
-**Birthplace** Kawagoe-city, Saitama, Japan.
+**Birthplace:** Kawagoe, Saitama, Japan.
 
 ## Academic Degree
 
@@ -34,4 +34,8 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
 #### Other (non-mathematical)
 
-I enjoy reading novels, hiking in mountains, taking pictures, playing [Splatoon 3](https://www.nintendo.com/jp/switch/av5ja/index.html) and making miso soup.
+---
+
+・ISHII (石井 in kanji) is a popular surname. Shun is also common, but the corresponding kanji "竣" is rarely used for names. This kanji roughly means "to construct something".
+
+・Other than mathematics, I enjoy reading novels, hiking in mountains, taking pictures and playing [Splatoon 3](https://www.nintendo.com/jp/switch/av5ja/index.html).
