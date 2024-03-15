@@ -32,9 +32,7 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
 2023.04 - 2026.03 (expected) : Research Fellow of the Japan Society for the Promotion of Science (PD)
 
-#### Other (non-mathematical)
-
----
+## Other (non-mathematical)
 
 ・ISHII (石井 in kanji) is a popular surname. Shun is also common, but the corresponding kanji "竣" is rarely used for names. This kanji roughly means "to construct something".
 
