@@ -2,45 +2,47 @@ Welcome to my homepage!
 
 ## About me
 
-I'm Shun ISHII (石井竣), a JSPS Research Fellow at Keio University.
+I'm Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
 
-I have much interested in Galois groups and fundamental groups. Currently I'm thinking about the Galois actions on the fundamental groups of once-punctured elliptic curves. Broadly speaking, my research interests include arithmetic, geometric and topological aspects of low-dimensional objects.
+I have much interested in Galois groups and fundamental groups. Broadly speaking, my research interests include arithmetic, geometric and topological aspects of low-dimensional objects, such as Drinfeld modules and once-punctured elliptic curves.
 
 email address : (my lastname).(my firstname)@keio.jp
 
 ## Papers
 
-3. The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, accepted for publication in International Journal of Number Theory. Preprint version is available at RIMS Preprints [RIMS1927](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf).
+・ The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, accepted for publication in International Journal of Number Theory. A preprint is available at RIMS Preprints [RIMS1927](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf).
 
-4. Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について (survey article written in japanese), accepted for publication in RIMS Kokyuroku Bessatsu.
+・ Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について (survey article, written in Japanese), accepted for publication in RIMS Kokyuroku Bessatsu.
 
-5. On isogeny characters of Drinfeld modules of rank two, Mathematische Zeitschrift,**301**, 455–470 (2022), available at [here](https://link.springer.com/article/10.1007/s00209-021-02921-5). Preprint version is also available at RIMS preprints [RIMS1947](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1947-revision.pdf).
+・ On isogeny characters of Drinfeld modules of rank two, Mathematische Zeitschrift,**301**, 455–470 (2022), available at [here](https://link.springer.com/article/10.1007/s00209-021-02921-5). Preprint version is also available at RIMS preprints [RIMS1947](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1947-revision.pdf).
 
 ## Preprints
 
-2. On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, submitted. Preprint is available at arXiv [(link)](https://arxiv.org/abs/2312.04196).
+・On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, submitted. Preprint is available at arXiv [(link)](https://arxiv.org/abs/2312.04196).
 
-1. On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, submitted. Preprint is available at arXiv [(link)](https://arxiv.org/abs/2312.04175).
+・On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, submitted. Preprint is available at arXiv [(link)](https://arxiv.org/abs/2312.04175).
 
 ## Talks (date/name/place/title)
 
-9. 2023.09.26, MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory [(link)](https://ahgt.math.cnrs.fr/activities/workshops/MFO-RIMS23/), Research Institute for Mathematical Sciences (RIMS) and Oberwolfach Research Institute for Mathematics (MFO), On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
+・2023.12.12, Algebraic Number Theory and Related Topics 2023 [(link)](https://sites.google.com/view/rims-ant2023), Research Institute for Mathematical Sciences (RIMS), On the kernels of pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
-10. 2023.07.12, 22th Hiroshima-Sendai Workshop on Number Theory [(link)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima23.html), Hiroshima University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
+・2023.09.26, MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory [(link)](https://ahgt.math.cnrs.fr/activities/workshops/MFO-RIMS23/), Research Institute for Mathematical Sciences (RIMS) and Oberwolfach Research Institute for Mathematics (MFO), On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
-11. 2023.06.27, Keio Algebra seminar (慶應代数セミナー), Keio University, 一点抜き CM 楕円曲線の副$p$外 Galois 表現から生じる数体について.
+・2023.07.12, 22th Hiroshima-Sendai Workshop on Number Theory [(link)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima23.html), Hiroshima University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
-12. 2023.03.28, Low Dimensional Topology and Number Theory XIV [(link)](https://www2.math.kyushu-u.ac.jp/~morisita/), Kyushu University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
+・2023.06.27, Keio Algebra seminar (慶應代数セミナー), Keio University, 一点抜き CM 楕円曲線の副$p$外 Galois 表現から生じる数体について.
 
-13. 2022.02.07, Mathsci Freshman Seminor 2022 (第 5 回数理新人セミナー) [(link)](https://sites.google.com/view/math-graduate/MATHSCI-FRESHMAN-SEMINAR/2022/プログラム及びアブストラクト), online, 虚数乗法を持つ楕円曲線引く原点の副$p$外 Galois 表現から生じる指標について.
+・2023.03.28, Low Dimensional Topology and Number Theory XIV [(link)](https://www2.math.kyushu-u.ac.jp/~morisita/), Kyushu University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
-14. 2020.12.04, Algebraic Number Theory and Related Topics 2020 [(link)](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), Research Institute for Mathematical Sciences (RIMS), Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について.
+・2022.02.07, Mathsci Freshman Seminor 2022 (第 5 回数理新人セミナー) [(link)](https://sites.google.com/view/math-graduate/MATHSCI-FRESHMAN-SEMINAR/2022/プログラム及びアブストラクト), online, 虚数乗法を持つ楕円曲線引く原点の副$p$外 Galois 表現から生じる指標について.
 
-15. 2020.09.11, 19th Sendai-Hiroshima Number Theory Conference [(link)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima20.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
+・2020.12.04, Algebraic Number Theory and Related Topics 2020 [(link)](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), Research Institute for Mathematical Sciences (RIMS), Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について.
 
-16. 2020.08.21, 2nd Kyoto-Hefei Workshop on Arithmetic Geometry [(link)](https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Kyoto-Hefei-2nd.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
+・2020.09.11, 19th Sendai-Hiroshima Number Theory Conference [(link)](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima20.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
 
-17. 2020.08.09. Kyushu Algebraic Number Theory 2020 Summer on Zoom [(link)](https://sites.google.com/view/kant2020sonzoom/), online, Drinfeld 加群の一次元族に対する普遍上界予想の類似について.
+・2020.08.21, 2nd Kyoto-Hefei Workshop on Arithmetic Geometry [(link)](https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Kyoto-Hefei-2nd.html), online, On a variant of the uniform boundedness conjecture for Drinfeld modules.
+
+・2020.08.09. Kyushu Algebraic Number Theory 2020 Summer on Zoom [(link)](https://sites.google.com/view/kant2020sonzoom/), online, Drinfeld 加群の一次元族に対する普遍上界予想の類似について.
 
 ## Academic Degree
 
@@ -53,16 +55,6 @@ MC : March 2020, Kyoto University (supervisor : Prof. Akio Tamagawa)
 DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
      Doctoral thesis : A study on the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves for ordinary primes
-
-## Education
-
-2011.04 - 2014.03 : Kawagoe High School, Saitama, Japan.
-
-2014.04 - 2018.03 : Department of Mathematics, Keio University, Kanagawa, Japan.
-
-2018.04 - 2020.03 : Graduate school of Science, Kyoto University (master course), Kyoto, Japan.
-
-2020.04 - 2023.03 : Graduate school of Science, Kyoto University (doctor course), Kyoto, Japan.
 
 ## Professional Experience
 
