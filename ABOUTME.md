@@ -34,8 +34,10 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
 ## Free Space
 
-・ISHII (石井 in kanji) is a popular surname. Shun is also common, but the corresponding kanji "竣" is rarely used for names. This kanji roughly means "to construct something".
+・ISHII (石井 in kanji) is a popular surname. Shun is also common, but the corresponding kanji 竣 is rarely used for names. This kanji roughly means "to construct something".
 
-・Other than mathematics, I enjoy reading novels, hiking in mountains, taking pictures and playing [Splatoon 3](https://www.nintendo.com/jp/switch/av5ja/index.html).
+・Other than mathematics, I enjoy reading novels/comics, hiking in mountains and taking pictures.
+
+・Some of my favorite novels and comics : 告白 (Confession) by 町田康 (Ko Machida), 青い花(Sweet Blue Flowers) by 志村貴子 (Takako Shimura) and 見えない都市(Le città invisibili) by Italo Calvino.
 
 ・Some of my (past) colleagues : [Naganori Yamaguchi](https://n-yamaguchi-0729.github.io/homepage-jp), [Yota Maeda](https://yota-maeda.vercel.app), [Séverin Philip](https://www.kurims.kyoto-u.ac.jp/~sphilip/).
