@@ -34,7 +34,7 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
 ## Free Space
 
-・ISHII (石井) is a popular surname. Shun is also common, but the corresponding kanji 竣 is rarely used for names. This kanji roughly means "to construct something". Since there are many similar kanjis with same pronunciation (eg. 駿, 俊, 峻, 浚, 悛, ...), please be careful if you want to cite my name in kanji.
+・ISHII (石井) is a popular surname. Shun is also common, but the corresponding kanji 竣 is rarely used for names. This kanji roughly means "to construct something". Since there are many similar kanjis with same pronunciation (eg. 駿, 俊, 峻, 浚, 悛, ...), please be careful when you cite my name in kanji.
 
 ・Other than mathematics, I enjoy reading novels/comics, hiking in mountains and taking pictures.
 
