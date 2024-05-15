@@ -10,11 +10,11 @@ email address : (my lastname).(my firstname)@keio.jp
 
 ## Papers
 
-・ The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, accepted for publication in International Journal of Number Theory [[RIMS Preprints]](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf).
+・ The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, International Journal of Number Theory (2024), available [here](https://www.worldscientific.com/doi/10.1142/S1793042124500611). A preprint is available [[RIMS Preprints]](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf).
 
 ・ Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について (survey article, written in Japanese), accepted for publication in RIMS Kokyuroku Bessatsu.
 
-・ On isogeny characters of Drinfeld modules of rank two, Mathematische Zeitschrift,**301**, 455–470 (2022), available [here](https://link.springer.com/article/10.1007/s00209-021-02921-5). A preprint is also available [[RIMS Preprints]](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1947-revision.pdf).
+・ On isogeny characters of Drinfeld modules of rank two, Mathematische Zeitschrift,**301**, 455–470 (2022), available [here](https://link.springer.com/article/10.1007/s00209-021-02921-5). A preprint is available [[RIMS Preprints]](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1947-revision.pdf).
 
 ## Preprints
 
@@ -26,7 +26,7 @@ email address : (my lastname).(my firstname)@keio.jp
 
 ・2023.12.12, Algebraic Number Theory and Related Topics 2023 [[Link]](https://sites.google.com/view/rims-ant2023), Research Institute for Mathematical Sciences (RIMS), On the kernels of pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
-・2023.09.26, MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory [[Link]](https://ahgt.math.cnrs.fr/activities/workshops/MFO-RIMS23/), Research Institute for Mathematical Sciences (RIMS) and Oberwolfach Research Institute for Mathematics (MFO), On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
+・2023.09.26, MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory [[Link]](https://ahgt.math.cnrs.fr/activities/workshops/MFO-RIMS23/), Research Institute for Mathematical Sciences (RIMS) and Oberwolfach Research Institute for Mathematics (MFO), On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves. You can find my report [here](https://publications.mfo.de/handle/mfo/4128).
 
 ・2023.07.12, 22th Hiroshima-Sendai Workshop on Number Theory [[Link]](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima23.html), Hiroshima University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
