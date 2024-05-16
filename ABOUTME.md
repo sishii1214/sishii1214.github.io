@@ -34,6 +34,8 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa)
 
 ## Other Activities
 
+・(2018.04 - 2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master student at RIMS.
+
 ・(2024.04 -) One of the organizers of Keio Algebra Seminar (慶應代数セミナー).
 
 ・One of the reporters of MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory held at MFO and RIMS. You can find the report [here](https://publications.mfo.de/handle/mfo/4128).
