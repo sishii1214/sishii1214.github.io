@@ -10,6 +10,6 @@ permalink: /misc
 
 ・Other than mathematics, I enjoy reading books, hiking in mountains and taking pictures.
 
-・[Here](/book) are some of my favorite books. Unfortunately, most of them are only available in Japanese.
+・[Here](/book) are some of my favorite books. Unfortunately, most of them are available only in Japanese.
 
 ・Some of my (past) colleagues around the same age : [Naganori Yamaguchi](https://n-yamaguchi-0729.github.io/homepage-jp), [Yota Maeda](https://yota-maeda.vercel.app) and [Séverin Philip](https://www.kurims.kyoto-u.ac.jp/~sphilip/).
