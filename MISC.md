@@ -4,7 +4,7 @@ title: "miscs"
 permalink: /misc
 ---
 
-## Miscellaneous
+### Miscellaneous
 
 ・ISHII (石井) is a popular surname. Shun (竣) is also common, but the corresponding kanji is rarely used for names. Since there are many similar kanjis with same pronunciation (eg. 駿, 俊, 峻, 浚, 悛, ...), please be careful when you cite my name in kanji.
 

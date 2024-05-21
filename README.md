@@ -1,7 +1,9 @@
-Welcome to my homepage!
+Welcome to my homepage! Here are some links:
 
 ・[CV](/aboutme)
+
 ・[Talks](/talk)
+
 ・[Miscellaneous](/misc)
 
 email address : (my lastname).(my firstname)@keio.jp

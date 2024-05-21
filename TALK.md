@@ -4,7 +4,7 @@ title: "talks"
 permalink: /talk
 ---
 
-## Talks (date/name/place/title)
+### Talks (date/name/place/title)
 
 ・2024.03.11, プロジェクト研究集会 2023, Keio University, 一点抜き楕円曲線の基本群と Galois 作用.
 
