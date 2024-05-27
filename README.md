@@ -6,13 +6,13 @@ Welcome to my homepage! Here are some links:
 
 ・[Miscellaneous](/misc)
 
-email address : (my lastname).(my firstname)@keio.jp
+email address : (my last name).(my first name)@keio.jp
 
 ## About me
 
-I'm Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
+I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
 
-I am fascinated by Galois groups and fundamental groups. Broadly speaking, my research interests lie in a mixture of arithmetic, geometric and topological aspects of low-dimensional objects (e.g. Drinfeld modules, once-punctured elliptic curves, etc...) and moduli spaces of them.
+I am fascinated by various aspects of Galois theory.
 
 ## Papers
 
