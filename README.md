@@ -14,7 +14,7 @@ Here are some links:
 
 ## Papers
 
-・ The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, International Journal of Number Theory (2024), available [here](https://www.worldscientific.com/doi/10.1142/S1793042124500611). A preprint is available [[RIMS Preprints]](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf).
+・ The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, International Journal of Number Theory, Vol. 20, No. 05, 1233-1263 (2024), available [here](https://www.worldscientific.com/doi/10.1142/S1793042124500611). A preprint is available [[RIMS Preprints]](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf).
 
 ・ Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について (survey article, written in Japanese), accepted for publication in RIMS Kokyuroku Bessatsu.
 
