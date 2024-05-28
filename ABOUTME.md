@@ -30,7 +30,7 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa).
 
 ・(2018.04 - 2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master course student at RIMS, Kyoto University.
 
-・I am a member of the LPP-RIMS Arithmetic & Homotopic Galois Theory (AHGT) International Research Network [HP](https://ahgt.math.cnrs.fr).
+・I am a member of the LPP-RIMS Arithmetic & Homotopic Galois Theory (AHGT) International Research Network [[Link]](https://ahgt.math.cnrs.fr).
 
 ・One of the reporters of MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory held at MFO and RIMS. You can find the report [here](https://publications.mfo.de/handle/mfo/4128).
 

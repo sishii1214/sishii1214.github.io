@@ -1,4 +1,6 @@
-Welcome to my homepage! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University. I am fascinated by various aspects of Galois theory.
+Welcome to my homepage!
+
+I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University. I am fascinated by various aspects of Galois theory.
 
 Here are some links:
 

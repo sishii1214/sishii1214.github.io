@@ -12,4 +12,4 @@ permalink: /misc
 
 ・[Here](/book) are some of my favorite books. Unfortunately, most of them are available only in Japanese.
 
-・Some of my (past) colleagues around the same age : [Naganori Yamaguchi](https://n-yamaguchi-0729.github.io/homepage-jp), [Yota Maeda](https://yota-maeda.vercel.app) and [Séverin Philip](https://www.kurims.kyoto-u.ac.jp/~sphilip/).
+・Some of my (past) colleagues around the same age : [Naganori Yamaguchi](https://n-yamaguchi-0729.github.io/homepage-jp), [Yota Maeda](https://yota-maeda.vercel.app), [Séverin Philip](https://www.kurims.kyoto-u.ac.jp/~sphilip/) and [Densuke Shiraishi](https://den-shiraishi.github.io/index.html).
