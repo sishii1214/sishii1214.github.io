@@ -1,4 +1,6 @@
-Welcome to my homepage! Here are some links:
+Welcome to my homepage! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University. I am fascinated by various aspects of Galois theory.
+
+Here are some links:
 
 ・[CV](/aboutme)
 
@@ -6,13 +8,7 @@ Welcome to my homepage! Here are some links:
 
 ・[Miscellaneous](/misc)
 
-email address : (my last name).(my first name)@keio.jp
-
-## About me
-
-I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
-
-I am fascinated by various aspects of Galois theory.
+**email address** : (my last name).(my first name)@keio.jp
 
 ## Papers
 

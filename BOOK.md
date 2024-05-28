@@ -32,6 +32,8 @@ This page is still under construction.
 
 ・三拍子の娘, 町田メロメ (The Girl in Waltz by Melome MACHIDA).
 
+・銀河の死なない子供たちへ, 施川ユウキ.
+
 ・潮が舞い子が舞い, 阿部共実.
 
 ・ふつうの軽音部, クワハリ/出内テツオ.
