@@ -8,8 +8,6 @@ Here are some links:
 
 ・[Talks](/talk)
 
-・[Miscellaneous](/misc)
-
 **email address** : (my last name).(my first name)@keio.jp
 
 **Research interests** : Fundamental group, Galois representation, once-punctured elliptic curve, arithmetic of abelian varieties and Drinfeld modules.
