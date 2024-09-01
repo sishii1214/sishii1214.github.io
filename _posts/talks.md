@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "talks"
-permalink: /talk
+permalink: /talks
 ---
 
 ## Schedule

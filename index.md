@@ -2,9 +2,9 @@ Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University
 
 Here are some links:
 
-・[CV](/aboutme)
+・[CV](/cv)
 
-・[Talks](/talk)
+・[Talks](/talks)
 
 **email address** : (my last name).(my first name)@keio.jp
 

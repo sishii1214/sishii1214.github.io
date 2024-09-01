@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "books"
-permalink: /book
+permalink: /books
 ---
 
 This page is still under construction.

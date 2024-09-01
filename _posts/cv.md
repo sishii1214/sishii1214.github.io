@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "about me"
-permalink: /aboutme
+title: "Curriculum Vitae"
+permalink: /cv
 ---
 
 **Name:** Shun Ishii.
