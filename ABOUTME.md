@@ -10,11 +10,11 @@ permalink: /aboutme
 
 ## Academic Degree
 
-BC : March 2018, Keio University (supervisor : Prof. Kenichi Bannai).
+BC : March 2018, Keio University (supervisor : Professor Kenichi Bannai).
 
-MC : March 2020, Kyoto University (supervisor : Prof. Akio Tamagawa).
+MC : March 2020, Kyoto University (supervisor : Professor Akio Tamagawa).
 
-DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa).
+DC : March 2023, Kyoto University (supervisor : Professor Akio Tamagawa).
 
 ## Employment/Grants
 
@@ -28,10 +28,12 @@ DC : March 2023, Kyoto University (supervisor : Prof. Akio Tamagawa).
 
 ## Other Activities
 
-・(2018.04 - 2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master course student at RIMS, Kyoto University.
+・(2018.04 - 2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master course student at RIMS, Kyoto University. I wouldn't have been able to continue my studies without this scholarship.
 
 ・I am a member of the LPP-RIMS Arithmetic & Homotopic Galois Theory (AHGT) International Research Network [[Link]](https://ahgt.math.cnrs.fr).
 
-・One of the reporters of MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory held at MFO and RIMS. You can find the report [here](https://publications.mfo.de/handle/mfo/4128).
+・I was one of the reporters of MFO-RIMS Tandem workshop 2023. You can find the report [here](https://publications.mfo.de/handle/mfo/4128). I would like to thank all the speakers in the conference for fascinating presentations.
 
-・(2024.04 -) One of the organizers of Keio Algebra Seminar (慶應代数セミナー) at Keio University.
+・(2024.04 -) I am one of the organizers of Keio Algebra Seminar (慶應代数セミナー) at Keio University. You can find the schedule of Keio Algebra Seminar [here](https://www.math.keio.ac.jp/information/seminar/).
+
+・For non-mathematical activities, please see [Miscellaneous](/misc).

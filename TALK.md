@@ -4,7 +4,13 @@ title: "talks"
 permalink: /talk
 ---
 
-### Talks (date/name/place/title)
+### Schedule
+
+・2024.11.23-24, 津田塾大学整数論ワークショップ 2024, 津田塾大学.
+
+・2024.10.20, 楕円多重ゼータ値勉強会, 近畿大学.
+
+### Past Talks (date/name/place/title)
 
 ・2024.03.11, プロジェクト研究集会 2023, Keio University, 一点抜き楕円曲線の基本群と Galois 作用.
 
@@ -18,7 +24,7 @@ permalink: /talk
 
 ・2023.03.28, Low Dimensional Topology and Number Theory XIV [[Link]](https://www2.math.kyushu-u.ac.jp/~morisita/), Kyushu University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
-・2022.02.07, Mathsci Freshman Seminor 2022 [[Link]](https://sites.google.com/view/math-graduate/MATHSCI-FRESHMAN-SEMINAR/2022/プログラム及びアブストラクト), online, 虚数乗法を持つ楕円曲線引く原点の副$p$外 Galois 表現から生じる指標について.
+・2022.02.07, Mathsci Freshman Seminar 2022 [[Link]](https://sites.google.com/view/math-graduate/MATHSCI-FRESHMAN-SEMINAR/2022/プログラム及びアブストラクト), online, 虚数乗法を持つ楕円曲線引く原点の副$p$外 Galois 表現から生じる指標について.
 
 ・2020.12.04, Algebraic Number Theory and Related Topics 2020 [[Link]](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), Research Institute for Mathematical Sciences (RIMS), Drinfeld 加群の$\mathfrak{p}$冪ねじれ点に対する普遍上界予想について.
 

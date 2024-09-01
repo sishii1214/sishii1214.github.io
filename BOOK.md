@@ -16,9 +16,13 @@ This page is still under construction.
 
 ・ヴォイド・シェイパ, 森博嗣 (The Void Shaper by Hiroshi MORI).
 
+・喜嶋先生の静かな世界, 森博嗣 (The Silent World of Dr. Kishima by Hiroshi MORI).
+
 ・麦ふみクーツェ, いしいしんじ (Kutze, Stepp'n on Wheat by Shinji ISHII).
 
 ・裏庭, 梨木香歩 (Backyard by Kaho NASHIKI).
+
+・タタール人の砂漠(Il deserto dei Tartari), Dino Buzzati.
 
 ・アラビアと夜の種族, 古川日出男.
 
@@ -52,9 +56,9 @@ This page is still under construction.
 
 ・Algebraic Geometry by R. Hartshorne.
 
-・Lie Algebras and Lie Groups by J.P. Serre.
+・Abelian Varieties by D. Mumford.
 
-・Arithmetic Moduli of Elliptic Curves by N. Katz and B. Mazur.
+・Lie Algebras and Lie Groups by J.P. Serre.
 
 ・The Arithmetic of Elliptic Curves by J. Silverman.
 
