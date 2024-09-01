@@ -4,13 +4,13 @@ title: "talks"
 permalink: /talk
 ---
 
-### Schedule
+## Schedule
 
 ・2024.11.23-24, 津田塾大学整数論ワークショップ 2024, 津田塾大学.
 
 ・2024.10.20, 楕円多重ゼータ値勉強会, 近畿大学.
 
-### Past Talks
+## Past Talks
 
 ・ date, name, place, title.
 
