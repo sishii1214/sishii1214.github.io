@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "books"
+title: "Books"
 permalink: /books
 ---
 

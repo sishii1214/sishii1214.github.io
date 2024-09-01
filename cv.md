@@ -34,6 +34,8 @@ DC : March 2023, Kyoto University (supervisor : Professor Akio Tamagawa).
 
 ・I was one of the reporters of MFO-RIMS Tandem workshop 2023. You can find the report [here](https://publications.mfo.de/handle/mfo/4128). I would like to thank all the speakers in the conference for fascinating presentations.
 
-・(2024.04 -) I am one of the organizers of Keio Algebra Seminar (慶應代数セミナー) at Keio University. You can find the schedule of Keio Algebra Seminar [here](https://www.math.keio.ac.jp/information/seminar/).
+・(2023.03-) I am a reviewer of MathSciNet. You can find my reviews [here](https://mathscinet.ams.org/mathscinet/author?authorId=1498106).
+
+・(2024.04 -) I am one of the organizers of Keio Algebra Seminar (慶應代数セミナー) at Keio University. You can find the schedule [here](https://www.math.keio.ac.jp/information/seminar/).
 
 ・For non-mathematical activities, please see [miscellaneous](/misc).

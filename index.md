@@ -6,13 +6,9 @@ description:
 
 Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
 
-Here are some links:
+[This](/cv) is my CV. The list of upcoming and past talks is [here](/talks).
 
-・[CV](/cv)
-
-・[Talks](/talks)
-
-**email address** : (my last name).(my first name)@keio.jp
+**email address** : ishii(dot)shun(at)keio.jp
 
 **Research interests** : Fundamental group, Galois representation, once-punctured elliptic curve, arithmetic of abelian varieties/Drinfeld modules.
 
