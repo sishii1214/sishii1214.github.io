@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shun Ishii's website
+description:
+---
+
 Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
 
 Here are some links:
