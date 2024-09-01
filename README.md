@@ -1,6 +1,4 @@
-Welcome to my homepage!
-
-I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
+Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University.
 
 Here are some links:
 
@@ -10,7 +8,7 @@ Here are some links:
 
 **email address** : (my last name).(my first name)@keio.jp
 
-**Research interests** : Fundamental group, Galois representation, once-punctured elliptic curve, arithmetic of abelian varieties and Drinfeld modules.
+**Research interests** : Fundamental group, Galois representation, once-punctured elliptic curve, arithmetic of abelian varieties/Drinfeld modules.
 
 ## Papers
 

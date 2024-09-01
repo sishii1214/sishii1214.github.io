@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
-title: Shun ISHII's website
-description: Shun Ishii's personal website.
+title: Shun ISHII@Keio
+description:
 google_analytics: G-D7BH66HRJ7
 plugins:
   - jekyll-sitemap
