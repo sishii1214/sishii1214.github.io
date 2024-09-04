@@ -22,11 +22,9 @@ Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University
 
 ## Preprints
 
-・On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, submitted [[arXiv]](https://arxiv.org/abs/2312.04196).
+・On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, submitted [[arXiv]](https://arxiv.org/abs/2312.04196). <details><summary>**comments** (2024.09.04)</summary>
+We've posted a revised version on arXiv. In particular, we revised a large portion of the last section to correct some inaccuracies and to improve the assertion of Theorem 1.5 (3). (We also apologize for the numerous typographical errors in the old manuscript)
 
-<details>
-<summary>comments (2024.09.04)</summary>
-We posted a revised version on arXiv. In particular, we revised a large portion of the last section to correct some inaccuracies and to improve the assertion of Theorem 1.5 (3). (We also apologize for the numerous typographical errors in the old manuscript) 
 </details>
 
 ・On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, submitted [[arXiv]](https://arxiv.org/abs/2312.04175).
