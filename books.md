@@ -13,6 +13,7 @@ This page is still under construction.
 ・告白, 町田康 (Confession by Ko MACHIDA).
 
 <details>
+<summary></summary>
 My favorite novel.
 </details>
 
@@ -37,6 +38,7 @@ My favorite novel.
 ・青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).
 
 <details>
+<summary></summary>
 My favorite comic. I often visit Kamakura-city, the place where the story takes place.
 </details>
 
@@ -69,6 +71,7 @@ My favorite comic. I often visit Kamakura-city, the place where the story takes 
 ・Abelian Varieties by D. Mumford.
 
 <details>
+<summary></summary>
 I organize the reading seminar on Mumford's AV at Keio since 2024.08. I think the (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great. 
 </details>
 
@@ -83,5 +86,6 @@ I organize the reading seminar on Mumford's AV at Keio since 2024.08. I think th
 ・体と Galois 理論, 藤崎源二郎.
 
 <details>
+<summary></summary>
 学部生の頃に夢中になって読みました. 
 </details>
