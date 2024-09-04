@@ -1,10 +1,12 @@
 ---
 layout: default
-title: "Books"
+title: "Favorite Books"
 permalink: /books
 ---
 
 This page is still under construction.
+
+文中の敬称は省略させていただきます.
 
 ## Novels
 
