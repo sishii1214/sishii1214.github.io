@@ -18,21 +18,21 @@ The best novel I have ever read.
 
 </details>
 
-・見えない都市 (Le città invisibili), Italo Calvino.
+・Le città invisibili, Italo Calvino.
 
 ・11, 津原泰水 (Eleven by Yasumi TSUHARA).
 
 ・ヴォイド・シェイパ, 森博嗣 (The Void Shaper by Hiroshi MORI).
 
-・喜嶋先生の静かな世界, 森博嗣 (The Silent World of Dr. Kishima by Hiroshi MORI).
-
 ・麦ふみクーツェ, いしいしんじ (Kutze, Stepp'n on Wheat by Shinji ISHII).
 
 ・裏庭, 梨木香歩 (Backyard by Kaho NASHIKI).
 
-・タタール人の砂漠(Il deserto dei Tartari), Dino Buzzati.
+・Il deserto dei Tartari, Dino Buzzati.
 
 ・アラビアと夜の種族, 古川日出男.
+
+・永遠も半ばを過ぎて, 中島らも.
 
 ## Comics
 
@@ -40,7 +40,7 @@ The best novel I have ever read.
 
 <summary>青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).</summary>
 
-My favorite comic. I often visit Kamakura-city, the place where the story takes place.
+I often visit Kamakura-city, the place where the story takes place.
 
 </details>
 
@@ -74,7 +74,9 @@ My favorite comic. I often visit Kamakura-city, the place where the story takes 
 
 <summary>Abelian Varieties by D. Mumford.</summary>
 
-I organize the reading seminar on Mumford's AV at Keio since 2024.08. I think the (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great.
+I organize the reading seminar at Keio since 2024.08.
+
+The (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great.
 
 </details>
 
