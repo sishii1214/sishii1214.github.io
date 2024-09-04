@@ -14,9 +14,7 @@ Here is the list of my favorite books. Some of them have associated comments.
 
 <summary>告白, 町田康 (Confession by Ko MACHIDA).</summary>
 
-```
 The best novel I have ever read.
-```
 
 </details>
 
@@ -42,9 +40,7 @@ The best novel I have ever read.
 
 <summary>青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).</summary>
 
-```
 My favorite comic. I often visit Kamakura-city, the place where the story takes place.
-```
 
 </details>
 
@@ -78,9 +74,7 @@ My favorite comic. I often visit Kamakura-city, the place where the story takes 
 
 <summary>Abelian Varieties by D. Mumford.</summary>
 
-```
 I organize the reading seminar on Mumford's AV at Keio since 2024.08. I think the (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great.
-```
 
 </details>
 
@@ -96,8 +90,6 @@ I organize the reading seminar on Mumford's AV at Keio since 2024.08. I think th
 
 <summary>体と Galois 理論, 藤崎源二郎.</summary>
 
-```
 学部生の頃に夢中になって読みました.
-```
 
 </details>
