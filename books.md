@@ -12,6 +12,10 @@ This page is still under construction.
 
 ・告白, 町田康 (Confession by Ko MACHIDA).
 
+<details>
+My favorite novel.
+</details>
+
 ・見えない都市 (Le città invisibili), Italo Calvino.
 
 ・11, 津原泰水 (Eleven by Yasumi TSUHARA).
@@ -31,6 +35,10 @@ This page is still under construction.
 ## Comics
 
 ・青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).
+
+<details>
+My favorite comic. I often visit Kamakura-city, the place where the story takes place.
+</details>
 
 ・ハクメイとミコチ, 樫木祐人 (Hakumei and Mikochi by Takuto KASHIKI).
 
@@ -60,6 +68,10 @@ This page is still under construction.
 
 ・Abelian Varieties by D. Mumford.
 
+<details>
+I organize the reading seminar on Mumford's AV at Keio since 2024.08. I think the (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great. 
+</details>
+
 ・Lie Algebras and Lie Groups by J.P. Serre.
 
 ・The Arithmetic of Elliptic Curves by J. Silverman.
@@ -69,3 +81,7 @@ This page is still under construction.
 ・反復積分の幾何学, 河野俊丈.
 
 ・体と Galois 理論, 藤崎源二郎.
+
+<details>
+学部生の頃に夢中になって読みました. 
+</details>
