@@ -8,7 +8,7 @@ permalink: /misc
 
 ・ISHII (石井) is a popular surname in Japan. Shun (竣) is also common, but the corresponding kanji is rarely used for names. Since there are many similar kanjis (eg. 駿, 俊, 峻, 浚, 悛, ...), please be careful when you cite my name.
 
-・I avoid drinking much alcohol and over-crowded places due to (not so serious) health reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
+・I sometimes avoid drinking alcohol and over-crowded places due to (not so serious) health reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
 
 ・Other than mathematics, I enjoy reading books, keeping a diary, hiking in mountains and taking pictures. [Here](/books) are some of my favorite books. Unfortunately, most of them are available only in Japanese.
 
