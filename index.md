@@ -29,6 +29,6 @@ Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University
 <details>
 
 <summary> comments (2024.09.04) </summary>
-We've posted a revised manuscript on arXiv. In particular, we rewrote a large portion of the last section to fix some inaccuracies and to improve the assertion of Theorem 1.5 (3). (We also apologize for the numerous typographical errors in the old manuscript)
+We've posted a revised manuscript on arXiv. It improves the assertion of Theorem 1.5 (3) in the old version and we fixed numerous typographical errors in the old manuscript according to referee's comments.
 
 </details>
