@@ -12,7 +12,7 @@ Here is the list of my favorite books. Some of them have associated comments.
 
 <details>
 
-<summary>告白, 町田康 (Confession by Ko MACHIDA).</summary>
+<summary>・告白, 町田康 (Confession by Ko MACHIDA).</summary>
 
 The best novel I have ever read.
 
@@ -38,7 +38,7 @@ The best novel I have ever read.
 
 <details>
 
-<summary>青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).</summary>
+<summary>・青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).</summary>
 
 I often visit Kamakura-city, the place where the story takes place.
 
@@ -72,7 +72,7 @@ I often visit Kamakura-city, the place where the story takes place.
 
 <details>
 
-<summary>Abelian Varieties by D. Mumford.</summary>
+<summary>・Abelian Varieties by D. Mumford.</summary>
 
 I organize the reading seminar at Keio since 2024.08.
 
@@ -90,7 +90,7 @@ The (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great
 
 <details>
 
-<summary>体と Galois 理論, 藤崎源二郎.</summary>
+<summary>・体と Galois 理論, 藤崎源二郎.</summary>
 
 学部生の頃に夢中になって読みました.
 
