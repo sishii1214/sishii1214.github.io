@@ -29,7 +29,7 @@ Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University
 <details>
 
 <summary> comments (2024.09.04) </summary>
-We've posted a revised manuscript on arXiv. It improves the assertion of Theorem 1.5 (3) in the old version and we fixed numerous typographical errors in the old manuscript according to referee's comments.
+We've posted a revised manuscript on arXiv, which significantly improves the assertion of Theorem 1.5 (3) in the old version. We also fix typographical errors and certain inaccuracies according to referee's comments and suggestions.
 
 </details>
 
