@@ -6,7 +6,7 @@ permalink: /misc
 
 ### Miscellaneous
 
-・ISHII (石井) is a popular surname in Japan. Shun (竣) is also common, but the corresponding kanji is rarely used for names. Since there are many similar kanjis (eg. 駿, 俊, 峻, 浚, 悛, ...), please be careful when you cite my name.
+・ISHII (石井) is a popular surname in Japan. Shun is also common, but the corresponding kanji (竣) is rarely used for names. Since there are many similar kanjis (eg. 駿, 俊, 峻, 浚, 悛, ...), please be careful when you cite my name.
 
 ・I sometimes avoid drinking alcohol and over-crowded places due to (not so serious) health reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
 

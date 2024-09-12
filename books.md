@@ -14,7 +14,7 @@ Here is the list of my favorite books. Some of them have associated comments.
 
 <summary>・告白, 町田康 (Confession by Ko MACHIDA).</summary>
 
-The best novel I have ever read.
+Literally The BEST novel I have ever read.
 
 </details>
 
@@ -74,9 +74,7 @@ I often visit Kamakura-city, the place where the story takes place.
 
 <summary>・Abelian Varieties by D. Mumford.</summary>
 
-I organize the reading seminar at Keio since 2024.08.
-
-The (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great.
+I organize the reading seminar since 2024.08. As an alternative book on AV, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
 
 </details>
 
@@ -92,6 +90,8 @@ The (unpublished) manuscript of Edixhoven-Moonen-van der Geer's AV is also great
 
 <summary>・体と Galois 理論, 藤崎源二郎.</summary>
 
+<div>
 学部生の頃に夢中になって読みました.
+</div>
 
 </details>
