@@ -22,6 +22,8 @@ Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University
 
 ## Preprints
 
+・On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, in preparation.
+
 ・On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, submitted [[arXiv]](https://arxiv.org/abs/2312.04196).
 
 ・On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, submitted [[arXiv]](https://arxiv.org/abs/2312.04175).
