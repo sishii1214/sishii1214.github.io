@@ -14,7 +14,7 @@ Here is the list of my favorite books. Some of them have associated comments.
 
 <summary>・告白, 町田康 (Confession by Ko MACHIDA).</summary>
 
-Literally The BEST novel I have ever read.
+Literally The BEST novel I have ever read. I remember reading this novel on the bus on the long way to Mt. Odaigahara with Yamaguchi-san.
 
 </details>
 
@@ -40,7 +40,7 @@ Literally The BEST novel I have ever read.
 
 <summary>・青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).</summary>
 
-I often visit Kamakura-city, the place where the story takes place.
+I was deeply influenced by this comic when I was young. I often visit Kamakura-city, the place where the story takes place.
 
 </details>
 
@@ -74,7 +74,7 @@ I often visit Kamakura-city, the place where the story takes place.
 
 <summary>・Abelian Varieties by D. Mumford.</summary>
 
-I organize the reading seminar since 2024.08. As an alternative book on AV, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
+I organize the reading seminar at Keio. As an alternative book on this topic, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
 
 </details>
 
