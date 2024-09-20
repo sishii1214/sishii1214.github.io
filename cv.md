@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv
 ---
 
-**Name:** Shun Ishii.
+**Name:** Shun Ishii (石井 竣).
 
 **Birthdate/place:** December 14, 1995/Kawagoe-city, Saitama, Japan.
 
