@@ -8,11 +8,11 @@ permalink: /talks
 
 ・2024.11.23-24, 津田塾大学整数論ワークショップ 2024, 津田塾大学.
 
-・2024.09.20, 楕円多重ゼータ値勉強会, 近畿大学.
-
 ## Past Talks
 
 ・ date, name, place, title.
+
+・2024.09.20, 楕円多重ゼータ値勉強会 in 近大[[Link]](https://www.math.kindai.ac.jp/laboratory/tasaka/ikz/), 近畿大学, 一点抜き CM 楕円曲線と外 Galois 表現.
 
 ・2024.03.11, プロジェクト研究集会 2023, Keio University, 一点抜き楕円曲線の基本群と Galois 作用.
 

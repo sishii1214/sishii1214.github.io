@@ -22,11 +22,13 @@ Welcome! I am Shun ISHII (石井 竣), a JSPS research fellow at Keio University
 
 ## Preprints
 
-・Galois actions on the pro-$p$ fundamental group of a once-punctured CM elliptic curve with supersingular reduction (tentative), in preparation.
+<!-- ・Galois actions on the pro-$p$ fundamental group of a once-punctured CM elliptic curve with supersingular reduction (tentative), in preparation.
 
-・Some topics on the stable derivation algebra of genus one (tentative), in preparation.
+・Topics on the stable derivation algebra of genus one (tentative), in preparation.
 
-・(with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, in preparation (a incomplete manuscript is also available upon request).
+-->
+
+・(with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, in preparation (a incomplete manuscript is available upon request).
 
 ・On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, submitted [[arXiv]](https://arxiv.org/abs/2312.04196).
 
