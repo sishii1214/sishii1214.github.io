@@ -5,3 +5,5 @@ description:
 google_analytics: G-D7BH66HRJ7
 plugins:
   - jekyll-sitemap
+
+markdown: CommonMarkGhPages
