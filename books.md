@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Favorite Books"
-permalink: /books
+permalink: /books/
 ---
 
 Here is the list of my favorite books. Some of them have associated comments.
@@ -10,88 +10,87 @@ Here is the list of my favorite books. Some of them have associated comments.
 
 ## Novels
 
-<details>
+- 告白, 町田康 (Confession by Ko MACHIDA)
 
-<summary>・告白, 町田康 (Confession by Ko MACHIDA).</summary>
+  - <details>
+    <summary> comment </summary>
+    Literally The BEST novel I have ever read. I remember reading this novel on the bus on the long way to Mt. Odaigahara with Yamaguchi-san.
+    </details>
 
-Literally The BEST novel I have ever read. I remember reading this novel on the bus on the long way to Mt. Odaigahara with Yamaguchi-san.
+- Le città invisibili, Italo Calvino.
 
-</details>
+- 11, 津原泰水 (Eleven by Yasumi TSUHARA).
 
-・Le città invisibili, Italo Calvino.
+- ヴォイド・シェイパ, 森博嗣 (The Void Shaper by Hiroshi MORI).
 
-・11, 津原泰水 (Eleven by Yasumi TSUHARA).
+- 麦ふみクーツェ, いしいしんじ (Kutze, Stepp'n on Wheat by Shinji ISHII).
 
-・ヴォイド・シェイパ, 森博嗣 (The Void Shaper by Hiroshi MORI).
+- 裏庭, 梨木香歩 (Backyard by Kaho NASHIKI).
 
-・麦ふみクーツェ, いしいしんじ (Kutze, Stepp'n on Wheat by Shinji ISHII).
+- Il deserto dei Tartari, Dino Buzzati.
 
-・裏庭, 梨木香歩 (Backyard by Kaho NASHIKI).
+- アラビアと夜の種族, 古川日出男.
 
-・Il deserto dei Tartari, Dino Buzzati.
+- 永遠も半ばを過ぎて, 中島らも.
 
-・アラビアと夜の種族, 古川日出男.
-
-・永遠も半ばを過ぎて, 中島らも.
+  - <details>
+    <summary> コメント </summary>
+    当該作品を基にした映画「Lie lie Lie」(1997年公開)はDVD化されておらず, 配信もないため長らく視聴できない状態でした. つい最近(2024年夏), 神保町シアターで上映されたため足を運びましたが, チケットが上映時間よりずいぶん前に完売しており驚きました. 映画はとても面白く, 特に中村梅雀さん, 上田耕一さんらが演じる個性的な脇役の活躍に心を奪われました. 
+    </details>
 
 ## Comics
 
-<details>
+- 青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).
 
-<summary>・青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).</summary>
+  - <details> 
+    <summary> comment </summary>
+    I was deeply influenced by this comic when I was young. I often visit Kamakura-city, the place where the story takes place.
+    </details>
 
-I was deeply influenced by this comic when I was young. I often visit Kamakura-city, the place where the story takes place.
+- ハクメイとミコチ, 樫木祐人 (Hakumei and Mikochi by Takuto KASHIKI).
 
-</details>
+- みやこまちクロニクル, ちほちほ (Miyakomachi Chronicle by Chihochiho).
 
-・ハクメイとミコチ, 樫木祐人 (Hakumei and Mikochi by Takuto KASHIKI).
+- 三拍子の娘, 町田メロメ (The Girl in Waltz by Melome MACHIDA).
 
-・みやこまちクロニクル, ちほちほ (Miyakomachi Chronicle by Chihochiho).
+- 銀河の死なない子供たちへ, 施川ユウキ.
 
-・三拍子の娘, 町田メロメ (The Girl in Waltz by Melome MACHIDA).
+- 潮が舞い子が舞い, 阿部共実.
 
-・銀河の死なない子供たちへ, 施川ユウキ.
-
-・潮が舞い子が舞い, 阿部共実.
-
-・ふつうの軽音部, クワハリ/出内テツオ.
+- ふつうの軽音部, クワハリ/出内テツオ.
 
 ## Others
 
-・あらゆることは今起こる, 柴崎友香.
+- あらゆることは今起こる, 柴崎友香.
 
-・サバイバル家族, 服部文祥.
+- サバイバル家族, 服部文祥.
 
-・怠惰の美徳, 梅崎春生.
+- 怠惰の美徳, 梅崎春生.
 
 ## Textbooks
 
-・Lectures on Riemann Surfaces by O. Forster.
+- Lectures on Riemann Surfaces by O. Forster.
 
-・Algebraic Geometry by R. Hartshorne.
+- Algebraic Geometry by R. Hartshorne.
 
-<details>
+- Abelian Varieties by D. Mumford.
 
-<summary>・Abelian Varieties by D. Mumford.</summary>
+  - <details> 
+    <summary> comment </summary>
+    I organize the reading seminar at Keio. As an alternative book on this topic, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
+    </details>
 
-I organize the reading seminar at Keio. As an alternative book on this topic, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
+- Lie Algebras and Lie Groups by J.P. Serre.
 
-</details>
+- The Arithmetic of Elliptic Curves by J. Silverman.
 
-・Lie Algebras and Lie Groups by J.P. Serre.
+- 楕円関数論, 梅村浩.
 
-・The Arithmetic of Elliptic Curves by J. Silverman.
+- 反復積分の幾何学, 河野俊丈.
 
-・楕円関数論, 梅村浩.
+- 体と Galois 理論, 藤崎源二郎
 
-・反復積分の幾何学, 河野俊丈.
-
-<details>
-
-<summary>・体と Galois 理論, 藤崎源二郎.</summary>
-
-<div>
-学部生の頃に夢中になって読みました.
-</div>
-
-</details>
+  - <details>
+    <summary> コメント </summary>
+    学部生の頃に夢中になって読みました.
+    </details>

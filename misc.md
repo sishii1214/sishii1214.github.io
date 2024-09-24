@@ -10,7 +10,7 @@ permalink: /misc/
 
 - **(My rule)** I sometimes avoid drinking alcohol and over-crowded places due to (not so serious) health reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
 
-- **(My favorite things)** Other than mathematics, I enjoy reading books, keeping a diary, hiking in mountains and taking pictures. I introduce some of my favorite books at [this page](/books) and [here](/photos) are some photos I took.
+- **(My favorite things)** Other than mathematics, I enjoy reading books, keeping a diary, hiking in mountains and taking pictures. I introduce some of my favorite books at [this page](/books). You can find some photos I took are [here](/photos).
 
 - **(Mathematicians)** Here are some links (without honorifics) :
   - [Naganori Yamaguchi](https://n-yamaguchi-0729.github.io/homepage-jp)
