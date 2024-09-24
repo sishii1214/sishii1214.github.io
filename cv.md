@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Curriculum Vitae"
-permalink: /cv
+permalink: /cv/
 ---
 
 **Name:** Shun Ishii (石井 竣).
