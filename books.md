@@ -11,9 +11,7 @@ Here is the list of my favorite books. Some of them have associated comments.
 ## Novels
 
 - 告白, 町田康 (Confession by Ko MACHIDA)
-
-&emsp;　<details>
-
+<details>
 <summary> comment </summary>
 Literally The BEST novel I have ever read. I remember reading this novel on the bus on the long way to Mt. Odaigahara with Yamaguchi-san.
 </details>
@@ -33,9 +31,7 @@ Literally The BEST novel I have ever read. I remember reading this novel on the 
 - アラビアと夜の種族, 古川日出男.
 
 - 永遠も半ばを過ぎて, 中島らも.
-
-&emsp;　<details>
-
+<details>
 <summary> コメント </summary>
 当該作品を基にした映画「Lie lie Lie」(1997 年公開)は DVD 化されておらず, 配信もないため長らく視聴できない状態でした. つい最近(2024 年夏), 神保町シアターで上映されたため足を運びましたが, チケットが上映時間よりずいぶん前に完売しており驚きました. 映画はとても面白く, 特に中村梅雀さん, 上田耕一さんらが演じる個性的な脇役の活躍に心を奪われました.
 </details>
@@ -43,11 +39,9 @@ Literally The BEST novel I have ever read. I remember reading this novel on the 
 ## Comics
 
 - 青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA).
-
-&emsp;　<details>
-
+<details>
 <summary> comment </summary>
-    I was deeply influenced by this comic when I was young. I often visit Kamakura-city, the place where the story takes place.
+I was deeply influenced by this comic when I was young. I often visit Kamakura-city, the place where the story takes place.
 </details>
 
 - ハクメイとミコチ, 樫木祐人 (Hakumei and Mikochi by Takuto KASHIKI).
@@ -77,9 +71,7 @@ Literally The BEST novel I have ever read. I remember reading this novel on the 
 - Algebraic Geometry by R. Hartshorne.
 
 - Abelian Varieties by D. Mumford.
-
-&emsp;　<details>
-
+<details>
 <summary> comment </summary>
 I organize the reading seminar at Keio. As an alternative book on this topic, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
 </details>
@@ -93,9 +85,7 @@ I organize the reading seminar at Keio. As an alternative book on this topic, th
 - 反復積分の幾何学, 河野俊丈.
 
 - 体と Galois 理論, 藤崎源二郎
-
-&emsp;　<details>
-
+<details>
 <summary> コメント </summary>
 学部生の頃に夢中になって読みました.
 </details>
