@@ -10,8 +10,6 @@ permalink: /misc
 
 ・ **(my rule)** I sometimes avoid drinking alcohol and over-crowded places due to (not so serious) health reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
 
-・ **(my favorite things)** Other than mathematics, I enjoy reading books, keeping a diary, hiking in mountains and taking pictures.
-
-・ **(my favorite books)** [Here](/books) are some of my favorite books. Unfortunately, most of them are available only in Japanese.
+・ **(my favorite things)** Other than mathematics, I enjoy reading books, keeping a diary, hiking in mountains and taking pictures. I introduce some of my favorite books [here](/books). [Here](/photos) are some photos I took.
 
 ・ **(links)** [Naganori Yamaguchi](https://n-yamaguchi-0729.github.io/homepage-jp), [Yota Maeda](https://yota-maeda.vercel.app), [Séverin Philip](https://www.kurims.kyoto-u.ac.jp/~sphilip/) and [Densuke Shiraishi](https://den-shiraishi.github.io/index.html).
