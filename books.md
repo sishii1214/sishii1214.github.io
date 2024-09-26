@@ -4,9 +4,7 @@ title: "Favorite Books"
 permalink: /books/
 ---
 
-Here is the list of my favorite books. Some of them have associated comments.
-
-文中の敬称は省略させていただきます.
+Here is the list of my favorite books.
 
 ## Novels
 
