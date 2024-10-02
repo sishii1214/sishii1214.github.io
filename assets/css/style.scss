@@ -5,3 +5,9 @@
 $body-text-color: #42494d;
 
 @import "{{ site.theme }}";
+
+.main-content {
+  kbd {
+    background-color: #ff0000;
+  }
+}
