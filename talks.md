@@ -14,11 +14,11 @@ permalink: /talks/
 
 ・ date, name, place, title.
 
-・2024.09.20, 楕円多重ゼータ値勉強会 in 近大　[[Link]](https://www.math.kindai.ac.jp/laboratory/tasaka/ikz/), 近畿大学, 一点抜き CM 楕円曲線と外 Galois 表現.
+・2024.09.20, 楕円多重ゼータ値勉強会 in 近大 ([link](https://www.math.kindai.ac.jp/laboratory/tasaka/ikz/)), 近畿大学, 一点抜き CM 楕円曲線と外 Galois 表現.
 
 ・2024.03.11, プロジェクト研究集会 2023, Keio University, 一点抜き楕円曲線の基本群と Galois 作用.
 
-・2023.12.12, Algebraic Number Theory and Related Topics 2023 [[Link]](https://sites.google.com/view/rims-ant2023), Research Institute for Mathematical Sciences (RIMS), On the kernels of pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
+・2023.12.12, Algebraic Number Theory and Related Topics 2023 ([link](https://sites.google.com/view/rims-ant2023)), Research Institute for Mathematical Sciences (RIMS), On the kernels of pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
 ・2023.09.26, MFO-RIMS Tandem workshop 2023 - Arithmetic Homotopy and Galois Theory [[Link]](https://ahgt.math.cnrs.fr/activities/workshops/MFO-RIMS23/), Research Institute for Mathematical Sciences (RIMS) and Oberwolfach Research Institute for Mathematics (MFO), On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves. You can find my report [here](https://publications.mfo.de/handle/mfo/4128).
 
