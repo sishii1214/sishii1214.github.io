@@ -12,7 +12,9 @@ Welcome! I am Shun ISHII, a JSPS research fellow at Keio University.
 
 **Research interests** : arithmetic fundamental group, Galois representation, once-punctured elliptic curve, arithmetic of abelian varieties and Drinfeld modules.
 
-# Papers
+---
+
+### Papers
 
 ・ The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, **International Journal of Number Theory**, Vol. 20, No. 05, 1233-1263, 2024 ([journal](https://www.worldscientific.com/doi/10.1142/S1793042124500611)) ([RIMS Preprints](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf)).
 
@@ -20,7 +22,7 @@ Welcome! I am Shun ISHII, a JSPS research fellow at Keio University.
 
 ・ On isogeny characters of Drinfeld modules of rank two, **Mathematische Zeitschrift**, 301, 455–470, 2022, ([journal](https://link.springer.com/article/10.1007/s00209-021-02921-5)) ([RIMS Preprints](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1947-revision.pdf)).
 
-# Preprints
+### Preprints
 
 <!-- ・Galois actions on the pro-$p$ fundamental group of a once-punctured CM elliptic curve with supersingular reduction (tentative), in preparation.
 
@@ -41,4 +43,4 @@ We've posted a revised manuscript on arXiv, improving the assertion of Theorem 1
 
 </details>
 
-## Notes (not intended for publication)
+### Notes (not intended for publication)
