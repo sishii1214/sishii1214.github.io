@@ -38,4 +38,4 @@ DC : March 2023, Kyoto University (supervisor : Professor Akio Tamagawa).
 
 ・I am one of the organizers of Keio Algebra Seminar (慶應代数セミナー). You can find the schedule [here](https://www.math.keio.ac.jp/information/seminar/).
 
-・For non-mathematical activities, please see [miscellaneous](/misc).
+・For some of non-mathematical activities, please see [miscellaneous](/misc).

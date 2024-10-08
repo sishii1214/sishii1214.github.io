@@ -6,9 +6,9 @@ permalink: /misc/
 
 ### Miscellaneous
 
-- **(My name)** ISHII (石井) is a popular surname in Japan. Shun is also common, but the corresponding kanji (竣) is rarely used for names. Since there are many similar kanjis, please be careful when you cite my name.
+- **(My name)** ISHII (石井) is a popular surname in Japan. Shun is also common, but the corresponding kanji (竣) is rarely used for names. 竣 roughly means ``construct (or complete) something''.
 
-- **(My rule)** I sometimes avoid drinking alcohol and over-crowded places due to (not so serious) health reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
+- **(My rule)** I sometimes avoid drinking alcohol and over-crowded places due to certain reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
 
 - **(Non-mathematical interests)** Other than mathematics, I enjoy reading books, keeping a diary, hiking in mountains and taking pictures. I introduce some of my favorite books at [this page](/books). You can also find some photos I took [here](/photos) (**Warning!** the page won't open since the photo files are too large).
 
