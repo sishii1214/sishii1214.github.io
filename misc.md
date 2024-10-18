@@ -6,7 +6,7 @@ permalink: /misc/
 
 ### Miscellaneous
 
-- **(My name)** ISHII (石井) is a popular surname in Japan. Shun is also common, but the corresponding kanji (竣) is rarely used for names. 竣 roughly means ``construct (or complete) something''.
+- **(My name)** ISHII (石井) is a popular surname in Japan. Shun is also common, but the corresponding kanji (竣) is rarely used for names. The only example I know of this character being used in everyday language is the word 竣工 (or 竣成), which means completion of construction.
 
 - **(My rule)** I sometimes avoid drinking alcohol and over-crowded places due to certain reasons. I am sincerely sorry in advance that I might refuse your kind invitations because of these.
 
@@ -15,5 +15,5 @@ permalink: /misc/
 - **(Mathematicians)** without honorifics :
   - [Naganori Yamaguchi](https://n-yamaguchi-0729.github.io/homepage-jp)
   - [Yota Maeda](https://yota-maeda.vercel.app)
-  - [Séverin Philip](https://www.kurims.kyoto-u.ac.jp/~sphilip/)
+  - [Séverin Philip](https://staff.math.su.se/severin.philip/)
   - [Densuke Shiraishi](https://den-shiraishi.github.io/index.html)
