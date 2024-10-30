@@ -4,13 +4,13 @@ title: "Talks"
 permalink: /talks/
 ---
 
-### Schedule
+## Schedule
 
 - 2024.11.08-11, 2nd Kindai Workshop on Multiple Zeta Values and Modular Forms, 近畿大学(参加).
 
 - 2024.11.23-24, 津田塾大学整数論ワークショップ 2024, 津田塾大学 (講演).
 
-### Past Talks
+## Past Talks
 
 - date, name, place, title.
 
