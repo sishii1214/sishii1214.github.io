@@ -28,14 +28,14 @@ DC : March 2023, Kyoto University (supervisor : Professor Akio Tamagawa).
 
 ## Other Activities
 
-・(2018.04-2020.03) I was funded by Yoshida Scholarship Foundation when I was a master student at RIMS, Kyoto University.
+- (2018.04-2020.03) I was funded by Yoshida Scholarship Foundation when I was a master student at RIMS, Kyoto University.
 
-・I am a member of the LPP-RIMS Arithmetic & Homotopic Galois Theory (AHGT) International Research Network [[Link]](https://ahgt.math.cnrs.fr).
+- I am a member of the LPP-RIMS Arithmetic & Homotopic Galois Theory (AHGT) International Research Network [[Link]](https://ahgt.math.cnrs.fr).
 
-・I was one of the reporters of MFO-RIMS Tandem workshop 2023 [[report]](https://publications.mfo.de/handle/mfo/4128). I would like to thank all the speakers in the conference for fascinating presentations.
+- I was one of the reporters of MFO-RIMS Tandem workshop 2023 [[report]](https://publications.mfo.de/handle/mfo/4128). I would like to thank all the speakers in the conference for fascinating presentations.
 
-・I am a reviewer of MathSciNet. You can find my reviews [here](https://mathscinet.ams.org/mathscinet/author?authorId=1498106).
+- I am a reviewer of MathSciNet. You can find my reviews [here](https://mathscinet.ams.org/mathscinet/author?authorId=1498106).
 
-・I am one of the organizers of Keio Algebra Seminar (慶應代数セミナー). You can find the schedule [here](https://www.math.keio.ac.jp/information/seminar/).
+- I am one of the organizers of Keio Algebra Seminar (慶應代数セミナー). You can find the schedule [here](https://www.math.keio.ac.jp/information/seminar/).
 
-・For some of non-mathematical activities, please see [miscellaneous](/misc).
+- For some of non-mathematical activities, please see [miscellaneous](/misc).
