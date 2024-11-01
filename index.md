@@ -4,13 +4,17 @@ title: Shun Ishii's website
 description:
 ---
 
-Welcome! I am Shun ISHII, a JSPS research fellow at Keio University.
+I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Keio, I was a doctoral course student at Kyoto university under the supervision of Prof. Akio Tamagawa (RIMS).
 
 [This](/cv) is my CV, and [here](/talks) is the list of my talks.
 
 **email address** : ishii(dot)shun(at)keio.jp
 
-**Research interests** : arithmetic fundamental groups, Galois representations, once-punctured elliptic curves, arithmetic of abelian varieties and Drinfeld modules.
+**Research interests** :
+
+- Galois representations on fundamental groups
+
+- Abelian varieties and Drinfeld modules
 
 ---
 

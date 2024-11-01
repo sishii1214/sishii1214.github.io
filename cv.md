@@ -22,9 +22,9 @@ permalink: /cv/
 
 - 2020.10 - 2022.03 : Special Teaching Assistant (STA), Kyoto University.
 
-- 2021.04 - 2023.03 : Research Fellow of the Japan Society for the Promotion of Science (DC2).
+- 2021.04 - 2023.03 : Research Fellow of the Japan Society for the Promotion of Science (DC2), Kyoto University.
 
-- 2023.04 - 2026.03 (expected) : Research Fellow of the Japan Society for the Promotion of Science (PD).
+- 2023.04 - 2026.03 (expected) : Research Fellow of the Japan Society for the Promotion of Science (PD), Keio University.
 
 ## Other Activities
 
@@ -36,6 +36,6 @@ permalink: /cv/
 
 - I am a reviewer of MathSciNet. You can find my reviews [here](https://mathscinet.ams.org/mathscinet/author?authorId=1498106).
 
-- I am one of the organizers of Keio Algebra Seminar (慶應代数セミナー). You can find the schedule [here](https://www.math.keio.ac.jp/information/seminar/).
+- I am one of the organizers of Keio Algebra Seminar. You can find the schedule [here](https://www.math.keio.ac.jp/information/seminar/).
 
 - For some of non-mathematical activities, please see [miscellaneous](/misc).

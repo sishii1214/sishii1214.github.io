@@ -6,15 +6,13 @@ permalink: /talks/
 
 ## Schedule
 
-- 2024.11.08-11, 2nd Kindai Workshop on Multiple Zeta Values and Modular Forms, 近畿大学(参加).
-
 - 2024.11.23-24, 津田塾大学整数論ワークショップ 2024, 津田塾大学 (講演).
 
 ## Past Talks
 
 - date, name, place, title.
 
-- 2024.09.20, 楕円多重ゼータ値勉強会 in 近大 [[Link]](https://www.math.kindai.ac.jp/laboratory/tasaka/ikz/), 近畿大学, 一点抜き CM 楕円曲線と外 Galois 表現.
+- 2024.09.20, 楕円多重ゼータ値勉強会 in 近大 [[Link]](https://www.math.kindai.ac.jp/laboratory/tasaka/ikz/), Kindai University, 一点抜き CM 楕円曲線と外 Galois 表現.
 
 - 2024.03.11, プロジェクト研究集会 2023, Keio University, 一点抜き楕円曲線の基本群と Galois 作用.
 
@@ -24,7 +22,7 @@ permalink: /talks/
 
 - 2023.07.12, 22th Hiroshima-Sendai Workshop on Number Theory [[Link]](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima23.html), Hiroshima University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
-- 2023.06.27, Keio Algebra seminar (慶應代数セミナー), Keio University, 一点抜き CM 楕円曲線の副$p$外 Galois 表現から生じる数体について.
+- 2023.06.27, Keio Algebra seminar, Keio University, 一点抜き CM 楕円曲線の副$p$外 Galois 表現から生じる数体について.
 
 - 2023.03.28, Low Dimensional Topology and Number Theory XIV [[Link]](https://www2.math.kyushu-u.ac.jp/~morisita/), Kyushu University, On pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves.
 
