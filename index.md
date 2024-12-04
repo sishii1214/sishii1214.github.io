@@ -4,7 +4,7 @@ title: Shun Ishii's website
 description:
 ---
 
-I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Keio, I was a doctoral course student at Kyoto university under the supervision of Prof. Akio Tamagawa (RIMS).
+I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Keio, I was a doctoral course student at Kyoto university under the supervision of Prof. [Akio Tamagawa](https://www.kurims.kyoto-u.ac.jp/en/list/TAMAGAWA,%20Akio.html).
 
 [This](/cv) is my CV, and [here](/talks) is the list of my talks.
 
@@ -27,8 +27,6 @@ I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Kei
 - On isogeny characters of Drinfeld modules of rank two, **Mathematische Zeitschrift**, 301, 455–470, 2022, ([journal](https://link.springer.com/article/10.1007/s00209-021-02921-5)) ([RIMS Preprints](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1947-revision.pdf)).
 
 ## Preprints
-
-<!-- ・Galois actions on the pro-$p$ fundamental group of a once-punctured CM elliptic curve with supersingular reduction (tentative), in preparation.-->
 
 - (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, in preparation (a incomplete manuscript is available upon request).
 
