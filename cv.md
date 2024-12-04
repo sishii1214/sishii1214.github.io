@@ -10,21 +10,21 @@ permalink: /cv/
 
 ## Academic Degree
 
-**BC** : March 2018, Keio University (supervisor : Professor Kenichi Bannai).
+**BC:** March 2018, Keio University (supervisor : Professor Kenichi Bannai).
 
-**MC** : March 2020, Kyoto University (supervisor : Professor Akio Tamagawa).
+**MC:** March 2020, Kyoto University (supervisor : Professor Akio Tamagawa).
 
-**DC** : March 2023, Kyoto University (supervisor : Professor Akio Tamagawa).
+**DC:** March 2023, Kyoto University (supervisor : Professor Akio Tamagawa).
 
 ## Employment/Grants
 
-- 2020.04 - 2021.03 : Research Assistant, Research Institute for Mathematical Sciences, Kyoto University.
+- 2020.04 - 2021.03: Research Assistant, Research Institute for Mathematical Sciences, Kyoto University.
 
-- 2020.10 - 2022.03 : Special Teaching Assistant (STA), Kyoto University.
+- 2020.10 - 2022.03: Special Teaching Assistant (STA), Kyoto University.
 
-- 2021.04 - 2023.03 : Research Fellow of the Japan Society for the Promotion of Science (DC2), Kyoto University.
+- 2021.04 - 2023.03: Research Fellow of the Japan Society for the Promotion of Science (DC2), Kyoto University.
 
-- 2023.04 - 2026.03 (expected) : Research Fellow of the Japan Society for the Promotion of Science (PD), Keio University.
+- 2023.04 - 2026.03(expected): Research Fellow of the Japan Society for the Promotion of Science (PD), Keio University.
 
 ## Other Activities
 

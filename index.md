@@ -8,9 +8,9 @@ I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Kei
 
 [This](/cv) is my CV, and [here](/talks) is the list of my talks.
 
-**email address** : ishii(dot)shun(at)keio.jp
+**email address**: ishii(dot)shun(at)keio.jp
 
-**Research interests** :
+**Research interests**:
 
 - Galois actions on fundamental groups, especially on these of once-punctured elliptic curves
 
