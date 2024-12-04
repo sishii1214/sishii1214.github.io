@@ -12,7 +12,7 @@ I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Kei
 
 **Research interests**:
 
-- Galois actions on fundamental groups, especially on these of once-punctured elliptic curves
+- Once-punctured elliptic curves (Galois actions on π_1, elliptic MZVs, etc)
 
 - Abelian varieties and Drinfeld modules
 
