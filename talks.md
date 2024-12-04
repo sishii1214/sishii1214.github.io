@@ -6,11 +6,17 @@ permalink: /talks/
 
 ## Schedule
 
-- 2024.11.23-24, 津田塾大学整数論ワークショップ 2024, 津田塾大学 (講演).
+- 2025.01.06- 代数的整数論とその周辺 2024
+
+- 2025.02.10- THE 17TH MSJ-SI Developments of multiple zeta values
+
+- 2025.03.25- Low dimensional topology and number theory XVI
 
 ## Past Talks
 
 - date, name, place, title.
+
+- 2024.11.23, 津田塾大学整数論ワークショップ 2024[[Link]](https://edu.tsuda.ac.jp/~t-hara/TsudaNT/index.html), 津田塾大学, 虚数乗法を持つ一点抜き楕円曲線に付随したある指標族の分解公式.
 
 - 2024.09.20, 楕円多重ゼータ値勉強会 in 近大 [[Link]](https://www.math.kindai.ac.jp/laboratory/tasaka/ikz/), Kindai University, 一点抜き CM 楕円曲線と外 Galois 表現.
 

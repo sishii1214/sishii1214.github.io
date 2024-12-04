@@ -12,7 +12,7 @@ I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Kei
 
 **Research interests** :
 
-- Galois actions on fundamental groups
+- Galois actions on fundamental groups, especially on these of once-punctured elliptic curves
 
 - Abelian varieties and Drinfeld modules
 
@@ -28,11 +28,7 @@ I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Kei
 
 ## Preprints
 
-<!-- ・Galois actions on the pro-$p$ fundamental group of a once-punctured CM elliptic curve with supersingular reduction (tentative), in preparation.
-
-・Topics on the stable derivation algebra of genus one (tentative), in preparation.
-
--->
+<!-- ・Galois actions on the pro-$p$ fundamental group of a once-punctured CM elliptic curve with supersingular reduction (tentative), in preparation.-->
 
 - (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, in preparation (a incomplete manuscript is available upon request).
 
