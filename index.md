@@ -14,7 +14,9 @@ I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Kei
 
 - Once-punctured elliptic curves (Galois actions on π_1, elliptic MZVs, etc)
 
-- Abelian varieties and Drinfeld modules
+- Abelian varieties and Drinfeld modules (related topics on the Rasmussen-Tamagawa conjecture)
+
+- Anabelian geometry
 
 ---
 
