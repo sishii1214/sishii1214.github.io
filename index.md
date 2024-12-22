@@ -4,7 +4,7 @@ title: Shun Ishii's website
 description:
 ---
 
-I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Keio, I was a doctoral course student at Kyoto university under the supervision of Prof. [Akio Tamagawa](https://www.kurims.kyoto-u.ac.jp/en/list/TAMAGAWA,%20Akio.html).
+I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [Kenichi Bannai](https://www.math.keio.ac.jp/~bannai/en/). Before coming to Keio, I was a doctoral course student at Kyoto university under the supervision of Prof. [Akio Tamagawa](https://www.kurims.kyoto-u.ac.jp/en/list/TAMAGAWA,%20Akio.html).
 
 [This](/cv) is my CV, and [here](/talks) is the list of my talks.
 
@@ -12,11 +12,11 @@ I am Shun ISHII, a JSPS research fellow at Keio University. Before coming to Kei
 
 **Research interests**:
 
-- Once-punctured elliptic curves (Galois actions on π_1, elliptic MZVs, etc)
+- Once-punctured elliptic curves (Galois actions on π_1, elliptic MZVs, elliptic GT group, etc)
 
-- Abelian varieties and Drinfeld modules (related topics on the Rasmussen-Tamagawa conjecture)
+- Abelian varieties and Drinfeld modules
 
-- Anabelian geometry
+- Anabelian geometry and related topics
 
 ---
 
