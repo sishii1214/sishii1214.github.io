@@ -30,7 +30,7 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 ## Preprints
 
-- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, preprint [arXiv](https://arxiv.org/abs/2412.18846).
+- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, preprint ([arXiv](https://arxiv.org/abs/2412.18846)).
 
 The following two preprints are based on my thesis, whose digest is available [here](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508).
 
