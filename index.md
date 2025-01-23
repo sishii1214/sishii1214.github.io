@@ -12,7 +12,7 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research interests**:
 
-- Once-punctured elliptic curves (Galois actions on π_1, elliptic MZVs, elliptic GT group, etc)
+- Once-punctured elliptic curves (Galois actions on π_1, elliptic MZVs, elliptic GT, etc)
 
 - Abelian varieties and Drinfeld modules
 
@@ -30,19 +30,12 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 ## Preprints
 
-- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, preprint ([arXiv](https://arxiv.org/abs/2412.18846)).
+- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, submitted ([arXiv](https://arxiv.org/abs/2412.18846)).
 
 The following two preprints are based on my thesis, whose digest is available [here](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508).
 
-- On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, submitted ([arXiv](https://arxiv.org/abs/2312.04196)).
+- On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
 
-- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, submitted ([arXiv](https://arxiv.org/abs/2312.04175)).
-
-<details>
-
-<summary> comments (2024.09.04) </summary>
-We've posted a revised manuscript on arXiv, improving the assertion of Theorem 1.5 (3). We also fix typographical errors and certain inaccuracies according to referee's comments.
-
-</details>
+- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, accepted ([arXiv](https://arxiv.org/abs/2312.04175)).
 
 ### Notes (not intended for publication)
