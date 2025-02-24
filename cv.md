@@ -16,6 +16,8 @@ permalink: /cv/
 
 **DC:** March 2023, Kyoto University (supervisor : Professor Akio Tamagawa).
 
+The digest of my thesis is available [here](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508).
+
 ## Employment/Grants
 
 - 2020.04 - 2021.03: Research Assistant, Research Institute for Mathematical Sciences, Kyoto University.

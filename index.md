@@ -12,15 +12,17 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research interests**:
 
-- Once-punctured elliptic curves (Galois actions on π_1, elliptic MZVs, elliptic GT, etc)
+- Once-punctured elliptic curves
 
 - Abelian varieties and Drinfeld modules
 
-- Anabelian geometry and related topics
+I am also interested in elliptic MZVs, elliptic GT, anabelian geometry, etc.
 
 ---
 
 ## Papers
+
+- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0), [arXiv](https://arxiv.org/abs/2312.04175)).
 
 - The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, **International Journal of Number Theory**, Vol. 20, No. 05, 1233-1263, 2024 ([journal](https://www.worldscientific.com/doi/10.1142/S1793042124500611)) ([RIMS Preprints](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf)).
 
@@ -32,10 +34,6 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 - (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, submitted ([arXiv](https://arxiv.org/abs/2412.18846)).
 
-The following two preprints are based on my thesis, whose digest is available [here](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508).
-
 - On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
-
-- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, accepted ([arXiv](https://arxiv.org/abs/2312.04175)).
 
 ### Notes (not intended for publication)

@@ -6,8 +6,6 @@ permalink: /talks/
 
 ## Schedule
 
-- 2025.02.10- THE 17TH MSJ-SI Developments of multiple zeta values
-
 - 2025.03.17- IUT summit 2025
 
 - 2025.03.25- Low dimensional topology and number theory XVI
