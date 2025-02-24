@@ -22,7 +22,7 @@ I am also interested in elliptic MZVs, elliptic GT, anabelian geometry, etc.
 
 ## Papers
 
-- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0), [arXiv](https://arxiv.org/abs/2312.04175)).
+- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0)), ([arXiv](https://arxiv.org/abs/2312.04175)).
 
 - The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, **International Journal of Number Theory**, Vol. 20, No. 05, 1233-1263, 2024 ([journal](https://www.worldscientific.com/doi/10.1142/S1793042124500611)) ([RIMS Preprints](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf)).
 
