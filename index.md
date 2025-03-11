@@ -38,4 +38,4 @@ I am also thinking about some problems on multiple zeta values and anabelian geo
 
 ### Personal notes
 
-- On $p$-adic valuation of $B_{p, \chi}$ (in Japanese).
+- [On $p$-adic valuation of $B_{p, \chi}$](/notes/pvalBer.pdf) (in Japanese).
