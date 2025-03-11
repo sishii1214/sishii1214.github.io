@@ -66,7 +66,7 @@ Here is the list of my favorite books.
 
 - Abelian Varieties by D. Mumford
 
-  > I organize the reading seminar at Keio. As an alternative book on this topic, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
+  > I organized the reading seminar at Keio. As an alternative book on this topic, there is a very nice (unpublished) manuscript of Edixhoven-Moonen-van der Geer.
 
 - Lie Algebras and Lie Groups by J.P. Serre
 

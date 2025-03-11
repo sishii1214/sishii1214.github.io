@@ -12,17 +12,17 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research interests**:
 
-- Once-punctured elliptic curves
+- Galois action on pro-$p$ fundamental groups of hyperbolic curves
 
 - Abelian varieties and Drinfeld modules
 
-I am also interested in elliptic MZVs, elliptic GT, anabelian geometry, etc.
+I am also thinking about some problems on multiple zeta values and anabelian geometry.
 
 ---
 
 ## Papers
 
-- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0)), ([arXiv](https://arxiv.org/abs/2312.04175)).
+- On Kummer characters arising from Galois actions on the pro-$p$ fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0)) ([arXiv](https://arxiv.org/abs/2312.04175)).
 
 - The $\mathfrak{p}$-primary Uniform Boundedness Conjecture for Drinfeld Modules, **International Journal of Number Theory**, Vol. 20, No. 05, 1233-1263, 2024 ([journal](https://www.worldscientific.com/doi/10.1142/S1793042124500611)) ([RIMS Preprints](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1927.pdf)).
 
@@ -32,8 +32,10 @@ I am also interested in elliptic MZVs, elliptic GT, anabelian geometry, etc.
 
 ## Preprints
 
-- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, submitted ([arXiv](https://arxiv.org/abs/2412.18846)).
+- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, in revision ([arXiv](https://arxiv.org/abs/2412.18846)).
 
 - On the kernels of the pro-$p$ outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
 
-### Notes (not intended for publication)
+### Personal notes
+
+- On $p$-adic valuation of $B_{p, \chi}$ (in Japanese).
