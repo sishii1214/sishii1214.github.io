@@ -6,15 +6,15 @@ permalink: /talks/
 
 ## Schedule
 
-- 2025.03.17- IUT summit 2025
-
-- 2025.03.25- Low dimensional topology and number theory XVI
+- 2025.04.14-18 Arithmetic France-Japan in Tokyo 2025
 
 ## Past Talks
 
 - date, name, place, title.
 
-- 2024.11.23, 津田塾大学整数論ワークショップ 2024[[Link]](https://edu.tsuda.ac.jp/~t-hara/TsudaNT/index.html), Tsuda University, 虚数乗法を持つ一点抜き楕円曲線に付随したある指標族の分解公式.
+- 2025.03.21, Spring seminar on Arithmetic Galois theory in Toyonaka 2025 [[Link]](http://www4.math.sci.osaka-u.ac.jp/~nakamura/ArithmeticDay2025/), Osaka University, On graded Lie algebras associated to pro-$p$ outer Galois representations of once-punctured elliptic curves with complex multiplication.
+
+- 2024.11.23, 津田塾大学整数論ワークショップ 2024 [[Link]](https://edu.tsuda.ac.jp/~t-hara/TsudaNT/index.html), Tsuda University, 虚数乗法を持つ一点抜き楕円曲線に付随したある指標族の分解公式.
 
 - 2024.09.20, 楕円多重ゼータ値勉強会 in 近大 [[Link]](https://www.math.kindai.ac.jp/laboratory/tasaka/ikz/), Kindai University, 一点抜き CM 楕円曲線と外 Galois 表現.
 

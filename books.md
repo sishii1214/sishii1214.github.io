@@ -28,6 +28,8 @@ Here is the list of my favorite books.
 
 - 悟浄出世・悟浄歎異, 中島敦
 
+- 悲しいだけ, 藤枝静男
+
 ## Comics
 
 - 青い花, 志村貴子 (Sweet Blue Flowers by Takako SHIMURA)
@@ -41,6 +43,8 @@ Here is the list of my favorite books.
 - 銀河の死なない子供たちへ, 施川ユウキ
 
 - ふつうの軽音部, クワハリ/出内テツオ
+
+- 二階堂地獄ゴルフ, 福本伸行
 
 ## Others
 

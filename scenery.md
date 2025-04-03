@@ -5,5 +5,5 @@ permalink: /scenery/
 
 photos:
   set: scenery
-  size: 3
+  size: 6
 ---
