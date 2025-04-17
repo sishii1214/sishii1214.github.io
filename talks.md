@@ -6,13 +6,13 @@ permalink: /talks/
 
 ## Schedule
 
-- 2025.04.14-18 Arithmetic France-Japan in Tokyo 2025
+-
 
 ## Past Talks
 
 - date, name, place, title.
 
-- 2025.03.21, Spring seminar on Arithmetic Galois theory in Toyonaka 2025 [[Link]](http://www4.math.sci.osaka-u.ac.jp/~nakamura/ArithmeticDay2025/), Osaka University, On graded Lie algebras associated to pro-p outer Galois representations of once-punctured elliptic curves with complex multiplication.
+- 2025.03.31, Spring seminar on Arithmetic Galois theory in Toyonaka 2025 [[Link]](http://www4.math.sci.osaka-u.ac.jp/~nakamura/ArithmeticDay2025/), Osaka University, On graded Lie algebras associated to pro-p outer Galois representations of once-punctured elliptic curves with complex multiplication.
 
 - 2024.11.23, 津田塾大学整数論ワークショップ 2024 [[Link]](https://edu.tsuda.ac.jp/~t-hara/TsudaNT/index.html), Tsuda University, 虚数乗法を持つ一点抜き楕円曲線に付随したある指標族の分解公式.
 
