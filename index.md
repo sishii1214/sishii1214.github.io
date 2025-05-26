@@ -16,8 +16,6 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 - Abelian varieties and Drinfeld modules
 
-I am also thinking about some problems on anabelian geometry and related topics.
-
 ---
 
 ## Papers

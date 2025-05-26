@@ -5,5 +5,5 @@ permalink: /flower/
 
 photos:
   set: flower
-  size: 6
+  size: 8
 ---

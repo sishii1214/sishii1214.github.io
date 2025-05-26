@@ -6,11 +6,13 @@ permalink: /talks/
 
 ## Schedule
 
--
+- 2025.09.02, Anabelian Geometry in Yokohama [[Link]](https://sites.google.com/view/ag-in-yokohama-2025-jp/home).
 
 ## Past Talks
 
 - date, name, place, title.
+
+- 2025.05.20, VaNTAGe seminar [[Link]](https://sites.google.com/view/vantageseminar), online, Galois action on pro-p fundamental groups of punctured CM elliptic curves.
 
 - 2025.03.31, Spring seminar on Arithmetic Galois theory in Toyonaka 2025 [[Link]](http://www4.math.sci.osaka-u.ac.jp/~nakamura/ArithmeticDay2025/), Osaka University, On graded Lie algebras associated to pro-p outer Galois representations of once-punctured elliptic curves with complex multiplication.
 
