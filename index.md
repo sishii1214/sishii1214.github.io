@@ -14,9 +14,9 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research interests**:
 
-Broadly speaking, I mainly consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves. One of my motivations is to understand Galois actions on (pro-p) fundamental groups of them explicitly, and to find deep connections between arithmetic fundamental groups and some other areas such as Iwasawa theory, the theory of mixed motives, etc.
+Broadly speaking, I consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves. One of my motivations is to understand Galois actions on (pro-p) fundamental groups of them explicitly, and to find connections between arithmetic fundamental groups and some other areas like Iwasawa theory and the theory of mixed motives.
 
-Other than that, I am interested in topics on Abelian varieties and Drinfeld modules, such as rational points on (Drinfeld) modular curves and Rasmussen-Tamagawa conjecture.
+Other than that, I am interested in topics on Abelian varieties and Drinfeld modules.
 
 ---
 
