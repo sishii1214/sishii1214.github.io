@@ -6,15 +6,17 @@ description:
 
 I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [Kenichi Bannai](https://www.math.keio.ac.jp/~bannai/en/). Before coming to Keio, I was a doctoral course student at Kyoto university under the supervision of Prof. [Akio Tamagawa](https://www.kurims.kyoto-u.ac.jp/en/list/TAMAGAWA,%20Akio.html).
 
-[This](/cv) is my CV, and [here](/talks) is the list of my talks.
+- [CV](/cv)
 
-**email address**: ishii(dot)shun(at)keio.jp
+- [Talks](/talks)
+
+**email address**: ishii(dot)shun(at)keio(dot)jp
 
 **Research interests**:
 
-- Galois action on pro-p fundamental groups of hyperbolic curves
+Broadly speaking, I mainly consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves. One of my motivations is to understand Galois actions on (pro-p) fundamental groups of them explicitly, and to find deep connections between arithmetic fundamental groups and some other areas such as Iwasawa theory, the theory of mixed motives, etc.
 
-- Abelian varieties and Drinfeld modules
+Other than that, I am interested in topics on Abelian varieties and Drinfeld modules, such as rational points on (Drinfeld) modular curves and Rasmussen-Tamagawa conjecture.
 
 ---
 
