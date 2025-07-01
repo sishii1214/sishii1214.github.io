@@ -14,13 +14,13 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research interests**:
 
-Broadly speaking, I consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves. One of my motivations is to understand Galois actions on (pro-p) fundamental groups of them explicitly, and to find connections between arithmetic fundamental groups and some other areas like Iwasawa theory and the theory of mixed motives.
-
-Other than that, I am interested in topics on Abelian varieties and Drinfeld modules.
+Broadly speaking, I consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves. One of my motivations is to understand Galois actions on (pro-p) fundamental groups of them explicitly, and to find connections between arithmetic fundamental groups and other areas like Iwasawa theory and the theory of mixed motives.
 
 ---
 
 ## Papers
+
+- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, accepted for publication in **International Journal of Number Theory** ([arXiv](https://arxiv.org/abs/2412.18846)).
 
 - On Kummer characters arising from Galois actions on the pro-p fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0)) ([arXiv](https://arxiv.org/abs/2312.04175)).
 
@@ -31,8 +31,6 @@ Other than that, I am interested in topics on Abelian varieties and Drinfeld mod
 - On isogeny characters of Drinfeld modules of rank two, **Mathematische Zeitschrift**, 301, 455–470, 2022, ([journal](https://link.springer.com/article/10.1007/s00209-021-02921-5)) ([RIMS Preprints](https://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1947-revision.pdf)).
 
 ## Preprints
-
-- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, in revision ([arXiv](https://arxiv.org/abs/2412.18846)).
 
 - On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
 
