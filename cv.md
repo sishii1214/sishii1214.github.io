@@ -30,14 +30,14 @@ The digest of my thesis is available [here](https://repository.kulib.kyoto-u.ac.
 
 ## Other Activities
 
-- (2018.04-2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master student at RIMS, Kyoto University.
+- (2018.04-2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master course student at RIMS, Kyoto University.
 
 - Member of the LPP-RIMS Arithmetic & Homotopic Galois Theory International Research Network [[AHGT]](https://ahgt.math.cnrs.fr).
 
 - Reporter of MFO-RIMS Tandem workshop 2023 [[report]](https://publications.mfo.de/handle/mfo/4128). I would like to thank all the speakers for fascinating presentations!
 
-- Reviewer of MathSciNet [My reviews](https://mathscinet.ams.org/mathscinet/author?authorId=1498106).
+- Reviewer of MathSciNet [[my reviews]](https://mathscinet.ams.org/mathscinet/author?authorId=1498106).
 
 - One of the organizers of Keio Algebra Seminar [[schedule]](https://www.math.keio.ac.jp/information/seminar/).
 
-- I co-organize several reading seminars, such as one on Mumford's book on abelian varieties and another one on the classical paper of Jannsen-Wingberg on absolute Galois groups of local fields. Since I am enthusiastic about learning classical books and papers related to my research, please feel free to let me know if you have any good candidates you would like to read together.
+- I co-organize several reading seminars with several students and postdocs, such as one on Mumford's book on abelian varieties and another one on the classical paper of Jannsen-Wingberg on absolute Galois groups of local fields.

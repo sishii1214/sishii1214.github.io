@@ -8,6 +8,8 @@ permalink: /talks/
 
 - 2025.09.02, Anabelian Geometry in Yokohama [[Link]](https://sites.google.com/view/ag-in-yokohama-2025-jp/home).
 
+- 2025.09.09, Dawn · Midi · Yofuke International Seminar [[Link]](https://christopherrasmussen.github.io/dmyseminar/).
+
 ## Past Talks
 
 - date, name, place, title.

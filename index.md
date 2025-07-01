@@ -20,7 +20,7 @@ Broadly speaking, I consider arithmetic problems related to hyperbolic curves, e
 
 ## Papers
 
-- (with Yuki Goto) On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication, accepted for publication in **International Journal of Number Theory** ([arXiv](https://arxiv.org/abs/2412.18846)).
+- On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication (with Yuki Goto), accepted for publication in **International Journal of Number Theory** ([arXiv](https://arxiv.org/abs/2412.18846)).
 
 - On Kummer characters arising from Galois actions on the pro-p fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0)) ([arXiv](https://arxiv.org/abs/2312.04175)).
 
