@@ -80,9 +80,9 @@ Here is the list of my favorite books.
 
 - The Arithmetic of Elliptic Curves, J. Silverman
 
-- Iwasawa Theory of Elliptic Curves with Complex Multiplication, E.de Shalit.
+- Iwasawa Theory of Elliptic Curves with Complex Multiplication, E.de Shalit
 
-- Cohomology of Number Fields, J. Neukirch - A. Schmidt - K. Wingberg.
+- Cohomology of Number Fields, J. Neukirch - A. Schmidt - K. Wingberg
 
 - 楕円関数論, 梅村浩
 
