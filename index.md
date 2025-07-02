@@ -12,9 +12,9 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **email address**: ishii(dot)shun(at)keio(dot)jp
 
-**Research interests**:
+**Research Area**: Number Theory.
 
-Broadly speaking, I consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves.
+**Keywords**: once-punctured elliptic curves, arithmetic fundamental groups, anabelian geometry, etc.
 
 ---
 
