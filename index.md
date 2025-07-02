@@ -14,7 +14,7 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research interests**:
 
-Broadly speaking, I consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves. One of my motivations is to understand Galois actions on (pro-p) fundamental groups of them explicitly, and to find connections between arithmetic fundamental groups and other areas like Iwasawa theory and the theory of mixed motives.
+Broadly speaking, I consider arithmetic problems related to hyperbolic curves, especially to once-punctured elliptic curves.
 
 ---
 
