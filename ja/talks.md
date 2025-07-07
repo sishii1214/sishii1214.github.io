@@ -8,7 +8,7 @@ permalink: ja/talks/
 
 - 2025.09.02, Anabelian Geometry in Yokohama [[Link]](https://sites.google.com/view/ag-in-yokohama-2025-jp/home)に出席予定.
 
-- 2025.09.09, Dawn · Midi · Yofuke International Seminar [[Link]](https://christopherrasmussen.github.io/dmyseminar/)
+- 2025.09.09, Dawn · Midi · Yofuke International Seminar [[Link]](https://christopherrasmussen.github.io/dmyseminar/)にて講演予定.
 
 ## 過去の講演
 
@@ -34,7 +34,7 @@ permalink: ja/talks/
 
 - 2023.03.28, Low Dimensional Topology and Number Theory XIV [[Link]](https://www2.math.kyushu-u.ac.jp/~morisita/), 九州大学, On pro-p outer Galois representations associated to once-punctured CM elliptic curves.
 
-- 2022.02.07, 数理進人セミナー 2022 [[Link]](https://sites.google.com/view/math-graduate/MATHSCI-FRESHMAN-SEMINAR/2022/プログラム及びアブストラクト), オンライン, 虚数乗法を持つ楕円曲線引く原点の副 p 外 Galois 表現から生じる指標について.
+- 2022.02.07, 数理新人セミナー 2022 [[Link]](https://sites.google.com/view/math-graduate/MATHSCI-FRESHMAN-SEMINAR/2022/プログラム及びアブストラクト), オンライン, 虚数乗法を持つ楕円曲線引く原点の副 p 外 Galois 表現から生じる指標について.
 
 - 2020.12.04, 代数的整数論とその周辺 2020 [[Link]](http://ntw.sci.u-toyama.ac.jp/rimsant2020/), 数理解析研究所, Drinfeld 加群の p 冪ねじれ点に対する普遍上界予想について.
 
