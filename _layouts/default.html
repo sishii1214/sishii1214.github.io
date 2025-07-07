@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,19 +29,39 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-      
+
       <footer class="site-footer">
         {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+          <span class="site-footer-owner">
+            <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
+            is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
+          </span>
         {% endif %}
-       <div style="text-align: center;">
-      <span>
-        <a href="https://sishii1214.github.io">Home</a> /
-        <a href="https://sishii1214.github.io/cv">CV</a> /
-        <a href="https://sishii1214.github.io/talks">Talks</a> /
-        <a href="https://sishii1214.github.io/misc">Misc</a>
-      </span>
-      </div>
+
+        <!-- 🔽 多言語対応のナビゲーション -->
+        <div style="text-align: center; margin-top: 1em;">
+          {% assign is_ja = page.url | slice: 0, 4 %}
+          {% if is_ja == "/ja/" %}
+            <a href="/ja/">Home</a> /
+            <a href="/ja/cv">CV</a> /
+            <a href="/ja/talks">Talks</a> /
+            <a href="/ja/misc">Misc</a>
+          {% else %}
+            <a href="/">Home</a> /
+            <a href="/cv">CV</a> /
+            <a href="/talks">Talks</a> /
+            <a href="/misc">Misc</a>
+          {% endif %}
+        </div>
+
+        <!-- 🔽 言語切替リンク -->
+        <div style="text-align: center; margin-top: 0.5em;">
+          {% if is_ja == "/ja/" %}
+            <a href="{{ page.url | replace_first: '/ja', '' }}">English</a>
+          {% else %}
+            <a href="/ja{{ page.url }}">日本語</a>
+          {% endif %}
+        </div>
       </footer>
     </main>
   </body>
