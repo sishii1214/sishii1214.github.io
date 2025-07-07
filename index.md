@@ -4,6 +4,8 @@ title: Shun Ishii's website
 description:
 ---
 
+**日本語のページは[こちら](/ja).**
+
 I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [Kenichi Bannai](https://www.math.keio.ac.jp/~bannai/en/). Before coming to Keio, I was a doctoral course student at Kyoto university under the supervision of Prof. [Akio Tamagawa](https://www.kurims.kyoto-u.ac.jp/en/list/TAMAGAWA,%20Akio.html).
 
 - [CV](/cv)
