@@ -18,15 +18,6 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        <!-- 🔽 言語切替リンク（右上表示） -->
-  <div style="position: absolute; top: 1rem; right: 1rem;">
-    {% assign is_ja = page.url | slice: 0, 4 %}
-    {% if is_ja == "/ja/" %}
-      <a href="{{ page.url | replace_first: '/ja', '' }}">English</a>
-    {% else %}
-      <a href="/ja{{ page.url }}">日本語</a>
-    {% endif %}
-  </div>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -62,7 +53,7 @@
             <a href="/misc">Misc</a>
           {% endif %}
         </div>
-        
+
       </footer>
     </main>
   </body>

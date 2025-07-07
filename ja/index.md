@@ -4,6 +4,8 @@ title: Shun Ishii's website
 description:
 ---
 
+**[English page](/).**
+
 石井竣のホームページへようこそ. 私は現在, 慶應義塾大学の学振研究員(PD)です(受入教員: [坂内健一先生](https://www.math.keio.ac.jp/~bannai/en/)).
 
 その前は, 数理解析研究所の博士課程に在籍していました(指導教員: [玉川安騎男先生](https://www.kurims.kyoto-u.ac.jp/en/list/TAMAGAWA,%20Akio.html)).
