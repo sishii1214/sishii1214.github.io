@@ -4,11 +4,9 @@ title: Shun Ishii's website
 description:
 ---
 
-**[English page](/).**
+**[English page.](/)**
 
-石井竣のホームページへようこそ. 私は現在, 慶應義塾大学の学振研究員(PD)です(受入教員: [坂内健一先生](https://www.math.keio.ac.jp/~bannai/en/)).
-
-その前は, 数理解析研究所の博士課程に在籍していました(指導教員: [玉川安騎男先生](https://www.kurims.kyoto-u.ac.jp/en/list/TAMAGAWA,%20Akio.html)).
+石井竣のホームページへようこそ!
 
 - [履歴](/ja/cv)
 
@@ -38,6 +36,6 @@ description:
 
 - On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
 
-### ノート
+### (個人的な)ノート・メモ
 
 - [B\_{p, \chi}の p 進付値について](/notes/pvalBer.pdf).

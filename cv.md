@@ -20,6 +20,8 @@ The digest of my thesis is available [here](https://repository.kulib.kyoto-u.ac.
 
 ## Employment/Grants
 
+- 2018.05- 2019.01: Teaching Assistant (TA), Kyoto University.
+
 - 2020.04 - 2021.03: Research Assistant, Research Institute for Mathematical Sciences, Kyoto University.
 
 - 2020.10 - 2022.03: Special Teaching Assistant (STA), Kyoto University.
@@ -30,7 +32,7 @@ The digest of my thesis is available [here](https://repository.kulib.kyoto-u.ac.
 
 ## Other Activities
 
-- (2018.04-2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master course student at RIMS, Kyoto University.
+- (2018.04-2020.03) I was funded by Yoshida Scholarship Foundation (吉田育英会) when I was a master course student at Kyoto University.
 
 - Member of the LPP-RIMS Arithmetic & Homotopic Galois Theory International Research Network [[AHGT]](https://ahgt.math.cnrs.fr).
 
