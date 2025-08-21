@@ -40,6 +40,8 @@ Here is the list of my favorite books.
 
 - 旅のラゴス, 筒井康隆
 
+- 現代生活独習ノート, 津村記久子
+
 ## Comics
 
 - 青い花, 志村貴子(Sweet Blue Flowers, Takako SHIMURA)
@@ -56,6 +58,8 @@ Here is the list of my favorite books.
 
 - 二階堂地獄ゴルフ, 福本伸行
 
+- うめともものふつうの暮らし, 藤沢カミヤ
+
 ## Others
 
 - あらゆることは今起こる, 柴崎友香
@@ -65,6 +69,8 @@ Here is the list of my favorite books.
 - 怠惰の美徳, 梅崎春生
 
 - どうで死ぬ身の一踊り, 西村賢太
+
+- よるにおばけと, みなはむ
 
 ## Textbooks
 
