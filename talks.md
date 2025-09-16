@@ -6,13 +6,13 @@ permalink: /talks/
 
 ## Schedule
 
-- 2025.09.02, Anabelian Geometry in Yokohama [[Link]](https://sites.google.com/view/ag-in-yokohama-2025-jp/home).
-
-- 2025.09.09, Dawn · Midi · Yofuke International Seminar [[Link]](https://christopherrasmussen.github.io/dmyseminar/).
+- TBA
 
 ## Past Talks
 
 - date, name, place, title.
+
+- 2025.09.09, Dawn · Midi · Yofuke International Seminar [[Link]](https://christopherrasmussen.github.io/dmyseminar/), online, Galois actions on pro-p fundamental groups of once-punctured CM elliptic curves.
 
 - 2025.05.20, VaNTAGe seminar [[Link]](https://sites.google.com/view/vantageseminar), online, Galois action on pro-p fundamental groups of punctured CM elliptic curves.
 

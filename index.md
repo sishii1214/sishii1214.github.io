@@ -16,8 +16,6 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research area**: Number theory.
 
-**Keywords**: Once-punctured elliptic curves, Arithmetic fundamental groups, Anabelian geometry, etc.
-
 ---
 
 ## Papers
