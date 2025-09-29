@@ -16,6 +16,8 @@ description:
 
 **専門**: 整数論
 
+遠アーベル幾何学や基本群への Galois 作用に関連して生じた問題をよく考えています. Galois 理論が好きです.
+
 ---
 
 ## 論文(査読有)
@@ -33,6 +35,10 @@ description:
 ## プレプリント等
 
 - On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
+
+- On the Rasmussen-Tamagawa conjecture for abelian fivefolds, available upon request.
+
+- On the structure of graded Lie algebras associated to once-punctured elliptic curves with complex multiplication, in preparation.
 
 ### (個人的な)ノート・メモ
 

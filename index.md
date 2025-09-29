@@ -16,6 +16,8 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 
 **Research area**: Number theory.
 
+I am interested in solving several problems arising from Galois actions on fundamental groups.
+
 ---
 
 ## Papers
@@ -33,6 +35,10 @@ I am Shun ISHII, a JSPS research fellow at Keio University, working with Prof. [
 ## Preprints
 
 - On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
+
+- On the Rasmussen-Tamagawa conjecture for abelian fivefolds (12pp.), available upon request.
+
+- On the structure of graded Lie algebras associated to once-punctured elliptic curves with complex multiplication, in preparation.
 
 ### Personal notes
 
