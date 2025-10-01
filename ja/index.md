@@ -40,6 +40,6 @@ description:
 
 - On the structure of graded Lie algebras associated to once-punctured elliptic curves with complex multiplication, in preparation.
 
-### (個人的な)ノート・メモ
+### メモ
 
-- [B\_{p, \chi}の p 進付値について](/notes/pvalBer.pdf).
+- [B\_{p, \chi}の p 進付値](/notes/Bpchi.pdf).

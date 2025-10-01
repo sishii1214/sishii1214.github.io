@@ -16,7 +16,7 @@ permalink: ja/cv/
 
 **博士(理学)** 2023 年 3 月, 京都大学 (指導教員: 玉川安騎男教授).
 
-博士論文の要約は[こちら](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508)からご覧いただけます.
+博士論文の要約は[こちら](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508).
 
 ## 職歴
 
