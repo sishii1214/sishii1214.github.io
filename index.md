@@ -42,4 +42,4 @@ I am interested in solving several problems arising from Galois actions on funda
 
 ### Personal notes
 
-- [On p-adic valuation of B\_{p, \chi}](/notes/pvalBer.pdf) (in Japanese).
+- [On p-adic valuation of B\_{p, \chi}](/notes/Bpchi.pdf) (in Japanese).
