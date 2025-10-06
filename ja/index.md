@@ -38,9 +38,11 @@ description:
 
 - On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
 
-- On the Rasmussen-Tamagawa conjecture for abelian fivefolds, available upon request.
+- The Rasmussen-Tamagawa conjecture for abelian fivefolds, available upon request.
 
 - On the structure of graded Lie algebras associated to once-punctured elliptic curves with complex multiplication, in preparation.
+
+- Existence of infinitely many two-torsions in the outer automorphism groups of absolute Galois groups of mixed characteristic local fields, in preparation.
 
 ### メモ
 

@@ -6,8 +6,6 @@ permalink: ja/talks/
 
 ## 今後の予定
 
-- 2025.09.29-10.03, 多重ゼータ値の諸相[[Link]](https://sites.google.com/view/rimsmzv2025/home)に出席予定.
-
 ## 過去の講演
 
 - 日付, 集会名, 開催場所, 講演題目.

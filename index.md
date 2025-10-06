@@ -40,6 +40,8 @@ I am interested in solving several problems arising from Galois actions on funda
 
 - On the structure of graded Lie algebras associated to once-punctured elliptic curves with complex multiplication, in preparation.
 
+- (TBD) Existence of infinitely many two-torsions in the outer automorphism groups of absolute Galois groups of mixed characteristic local fields, in preparation.
+
 ### Personal notes
 
 - [On p-adic valuation of B\_{p, \chi}](/notes/Bpchi.pdf) (in Japanese).
