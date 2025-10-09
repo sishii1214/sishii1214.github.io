@@ -42,8 +42,6 @@ description:
 
 - On the structure of graded Lie algebras associated to once-punctured elliptic curves with complex multiplication, in preparation.
 
-- Existence of infinitely many two-torsions in the outer automorphism groups of absolute Galois groups of mixed characteristic local fields, in preparation.
-
 ### メモ
 
 - [B\_{p, \chi}の p 進付値](/notes/Bpchi.pdf).
