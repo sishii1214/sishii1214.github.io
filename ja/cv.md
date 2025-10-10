@@ -48,4 +48,4 @@ permalink: ja/cv/
 
 - 慶應代数セミナーの世話人(の一人)です. スケジュールは [こちら](https://www.math.keio.ac.jp/information/seminar/).
 
-- 近隣の学生・ポスドクの皆様としばしば整数論の勉強会を共催しています(Mumford のアーベル多様体, Jannsen-Wingberg の論文, etc).
+- 近隣の学生・PD の皆様としばしば勉強会を共催しています(Mumford のアーベル多様体, Jannsen-Wingberg の論文, etc).
