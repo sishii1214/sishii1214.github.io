@@ -16,7 +16,7 @@ description:
 
 **専門**: 整数論
 
-曲線の基本群への数体・局所体の絶対 Galois 群の作用や, 数体・局所体の絶対 Galois 群の性質に関連する問題をよく考えています. また, 最近はアーベル多様体に関する Rasmussen-玉川予想も考えています.
+曲線の基本群への数体・局所体の絶対 Galois 群の作用に関連する問題をよく考えています. また, 最近はアーベル多様体に関する Rasmussen-玉川予想も考えています.
 
 ---
 
@@ -37,6 +37,8 @@ description:
 - On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
 
 - The Rasmussen-Tamagawa conjecture for abelian fivefolds, available upon request.
+
+- A note on two-torsions in the outer automorphism groups of absolute Galois groups of mixed-characteristic local fields, available upon request.
 
 - On the structure of graded Lie algebras associated to once-punctured elliptic curves with complex multiplication, in preparation.
 
