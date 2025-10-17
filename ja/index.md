@@ -36,7 +36,7 @@ description:
 
 - On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
 
-- The Rasmussen-Tamagawa conjecture for abelian fivefolds, available upon request.
+- On the Rasmussen-Tamagawa conjecture for abelian fivefolds, submitted ([arXiv](https://arxiv.org/abs/2510.14306)).
 
 - A note on two-torsions in the outer automorphism groups of absolute Galois groups of mixed-characteristic local fields, available upon request.
 
