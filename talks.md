@@ -6,11 +6,13 @@ permalink: /talks/
 
 ## Schedule
 
-- TBA
+- TBD.
 
 ## Past Talks
 
 - date, name, place, title.
+
+- 2025.11.19, Paris Arithmetic Homotopic Galois Theory Days 2025 [[Link]](https://ahgt.math.cnrs.fr/activities/workshops/AHGT-Days/), Institut de math´ematiques de Jussieu - Paris Rive Gauche (IMJ-PRG), Galois actions on pro-p fundamental groups of once-punctured CM elliptic curves.
 
 - 2025.09.09, Dawn · Midi · Yofuke International Seminar [[Link]](https://christopherrasmussen.github.io/dmyseminar/), online, Galois actions on pro-p fundamental groups of once-punctured CM elliptic curves.
 
