@@ -42,4 +42,4 @@ The digest of my thesis is available [here](https://repository.kulib.kyoto-u.ac.
 
 - One of the organizers of Keio Algebra Seminar [[schedule]](https://www.math.keio.ac.jp/information/seminar/).
 
-- I co-organize several reading seminars with several students and postdocs, such as one on Mumford's book on abelian varieties and another one on the classical paper of Jannsen-Wingberg on absolute Galois groups of local fields.
+- I co-organize several reading seminars with several students and postdocs, such as one on Mumford's book on abelian varieties.

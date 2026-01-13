@@ -16,7 +16,7 @@ permalink: ja/cv/
 
 **博士(理学)** 2023 年 3 月, 京都大学 (指導教員: 玉川安騎男教授).
 
-博士論文の要約は[こちら](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508).
+博士論文の要約は[こちら](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/283508)よりご覧いただけます.
 
 ## 職歴
 
@@ -26,9 +26,9 @@ permalink: ja/cv/
 
 - 2020 年 10 月 - 2022 年 3 月 : スペシャルティーチングアシスタント(STA), 京都大学.
 
-- 2021 年 4 月 - 2023 年 3 月 : 日本学術振興会特別研究員 (DC2), 京都大学. 受入教員: 玉川安騎男先生.
+- 2021 年 4 月 - 2023 年 3 月 : 日本学術振興会特別研究員 (DC2), 京都大学. 受入教員: 玉川安騎男教授.
 
-- 2023 年 4 月 - 2026 年 3 月(見込): 日本学術振興会特別研究員 (PD), 慶應義塾大学. 受入教員: 坂内健一先生.
+- 2023 年 4 月 - 2026 年 3 月(見込): 日本学術振興会特別研究員 (PD), 慶應義塾大学. 受入教員: 坂内健一教授.
 
 ## 競争的研究資金
 
@@ -40,12 +40,10 @@ permalink: ja/cv/
 
 - 修士課程在学時に吉田育英会(マスター 21)の助成を受けておりました.
 
-- TA は線形代数, 微積分学の採点業務など, STA では 1-2 回生向けに基礎的な群論や可換代数のセミナーを行っていました.
+- TA として線形代数, 微積分学の採点業務など, STA では 1-2 回生向けに基礎的な群論や可換代数のセミナーを行っていました.
 
 - Arithmetic & Homotopic Galois Theory International Research Network [[AHGT]](https://ahgt.math.cnrs.fr)のメンバーです.
 
 - MathSciNet で遠アーベル幾何学に関連した論文のレビューを書いています. レビューは[こちら](https://mathscinet.ams.org/mathscinet/author?authorId=1498106).
 
-- 慶應代数セミナーの世話人(の一人)です. スケジュールは [こちら](https://www.math.keio.ac.jp/information/seminar/).
-
-- 近隣の学生・PD の皆様としばしば勉強会を共催しています(Mumford のアーベル多様体, Jannsen-Wingberg の論文, etc).
+- 慶應代数セミナーの世話人(の一人)です. スケジュールは [こちら](https://www.math.keio.ac.jp/information/seminar/)からご覧いただけます.

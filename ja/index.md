@@ -16,7 +16,13 @@ description:
 
 **専門**: 整数論
 
-曲線の基本群への数体・局所体の絶対 Galois 群の作用に関連する問題をよく考えています. また, 最近はアーベル多様体に関する Rasmussen-玉川予想も考えています.
+最近は曲線の(エタール)基本群への数体・局所体の Galois 群の作用に関する問題を研究しています. また, 過去に研究を実施した話題として
+
+- Abel 多様体に関する Rasmussen-玉川予想
+
+- Drinfeld 加群の(有理)ねじれ点
+
+などがあります.
 
 ---
 
@@ -34,7 +40,7 @@ description:
 
 ## プレプリント等
 
-- On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
+- On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, submitted ([arXiv](https://arxiv.org/abs/2312.04196)).
 
 - On the Rasmussen-Tamagawa conjecture for abelian fivefolds, submitted ([arXiv](https://arxiv.org/abs/2510.14306)).
 
