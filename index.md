@@ -22,7 +22,7 @@ I am interested in solving several problems arising from Galois actions on funda
 
 ## Papers
 
-- On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication (with Yuki Goto), accepted for publication in **International Journal of Number Theory** ([journal](https://www.worldscientific.com/doi/10.1142/S1793042126500016)) ([arXiv](https://arxiv.org/abs/2412.18846)).
+- On the factorization of certain Kummer characters arising from once-punctured elliptic curves with complex multiplication (with Yuki Goto), **International Journal of Number Theory**, Vol. 22, No. 01, pp. 1-24 2026 ([journal](https://www.worldscientific.com/doi/10.1142/S1793042126500016)) ([arXiv](https://arxiv.org/abs/2412.18846)).
 
 - On Kummer characters arising from Galois actions on the pro-p fundamental groups of once-punctured CM elliptic curves, **Research in Number Theory**, Vol. 11, article number 38, 2025 ([journal](https://link.springer.com/article/10.1007/s40993-025-00622-0)) ([arXiv](https://arxiv.org/abs/2312.04175)).
 
@@ -34,7 +34,7 @@ I am interested in solving several problems arising from Galois actions on funda
 
 ## Preprints
 
-- On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, in revision ([arXiv](https://arxiv.org/abs/2312.04196)).
+- On the kernels of the pro-p outer Galois representations associated to once-punctured CM elliptic curves, submitted ([arXiv](https://arxiv.org/abs/2312.04196)).
 
 - On the Rasmussen-Tamagawa conjecture for abelian fivefolds, submitted ([arXiv](https://arxiv.org/abs/2510.14306)).
 
