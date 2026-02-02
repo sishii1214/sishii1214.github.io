@@ -6,15 +6,17 @@ permalink: ja/talks/
 
 ## 今後の予定(暫定)
 
-- 2025.02.19-20, Anabelian Geometry in 大岡山 2026 @東京科学大学
+- 2026.02.19-20, Anabelian Geometry in 大岡山 2026 @科学大
 
-- 2025.03.15-17, プロジェクト研究集会 2025 @ 山梨
+- 2026.03.15-17, プロジェクト研究集会 2025 @ 山梨
 
-- 2025.03.19-22, 第 2 回信州整数論小研究集会 @ 信州大学
+- 2026.03.19-22, 第 2 回信州整数論小研究集会 @ 信大
 
 ## 過去の講演
 
 - 日付, 集会名, 開催場所, 講演題目.
+
+- 2026.01.16, 阪大整数論＆保形形式セミナー [[Link]](http://www4.math.sci.osaka-u.ac.jp/~ogawa/seminar/), 大阪大学, On Lie algebras associated to pro-p outer Galois representations of once-punctured CM elliptic curves.
 
 - 2025.11.19, Paris Arithmetic Homotopic Galois Theory Days 2025 [[Link]](https://ahgt.math.cnrs.fr/activities/workshops/AHGT-Days/), Institut de math´ematiques de Jussieu - Paris Rive Gauche (IMJ-PRG), Galois actions on pro-p fundamental groups of once-punctured CM elliptic curves.
 
