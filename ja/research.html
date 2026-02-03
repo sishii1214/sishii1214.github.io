@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-D7BH66HRJ7"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-D7BH66HRJ7");
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>研究 | 石井 竣</title>
+    <link rel="stylesheet" href="/assets/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p class="site-title">Shun Ishii</p>
+        <p class="sub">Keio University / JSPS postdoctoral fellow</p>
+
+        <nav>
+          <a href="index.html" aria-current="page">ホーム</a>
+          <a href="research.html">研究</a>
+          <a href="papers.html">論文</a>
+          <a href="talks.html">講演</a>
+          <a href="cv.html">履歴</a>
+          <a href="misc.html">雑多</a>
+        </nav>
+
+        <div class="lang-switch">
+          <span class="is-current">日本語</span>
+          <span class="sep">/</span>
+          <a href="/misc.html">English</a>
+        </div>
+      </header>
+
+      <main>
+        <h1>専門について</h1>
+        <div>
+          <p>
+            広く整数論に興味を持っていて,
+            これまでに幾つかのテーマを研究しています:
+          </p>
+          <ul>
+            <li>
+              虚数乗法を持つ一点抜き楕円曲線の整数論,
+              特に基本群へのGalois作用の明示的記述. 最近は周期を含むHodge
+              sideに興味があります.
+            </li>
+            <li>
+              アーベル多様体やDrinfeld加群の等分点に関連する話題.
+              例えばRasmussen-玉川予想.
+            </li>
+            <li>
+              広く遠アーベル幾何学に端を発する話題.
+              例えば混標数局所体の外部自己同型群の群論的性質.
+            </li>
+          </ul>
+          <p>
+            単一の理論の精密化や一般化を目指すというよりは,
+            各分野に散在する問題群をいろいろ使って考えている,
+            というパターンが多いです.
+          </p>
+        </div>
+
+        <hr />
+        <h1>研究について</h1>
+        <ul>
+          <li>研究のことについてもう少し詳しく紹介する予定です. 建設中...</li>
+        </ul>
+
+        <div class="footer">Last updated: <span id="last-updated"></span></div>
+        <script>
+          document.getElementById("last-updated").textContent = new Date(
+            document.lastModified
+          )
+            .toISOString()
+            .slice(0, 10);
+        </script>
+      </main>
+    </div>
+  </body>
+</html>

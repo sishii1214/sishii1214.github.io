@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-D7BH66HRJ7"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-D7BH66HRJ7");
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>雑多 | 石井 竣</title>
+    <link rel="stylesheet" href="/assets/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p class="site-title">Shun Ishii</p>
+        <p class="sub">Keio University / JSPS postdoctoral fellow</p>
+
+        <nav>
+          <a href="index.html" aria-current="page">ホーム</a>
+          <a href="research.html">研究</a>
+          <a href="papers.html">論文</a>
+          <a href="talks.html">講演</a>
+          <a href="cv.html">履歴</a>
+          <a href="misc.html">雑多</a>
+        </nav>
+        <div class="lang-switch">
+          <span class="is-current">日本語</span>
+          <span class="sep">/</span>
+          <a href="/misc.html">English</a>
+        </div>
+      </header>
+
+      <main>
+        <h1>数学以外の雑多なこと</h1>
+        <ul>
+          <li>左利きです.</li>
+          <li>
+            私の名前(竣)に似た漢字は多く(俊, 峻, ...), よく間違えられるため,
+            ここに注意喚起しておきます.
+            「竣工」「竣成」でしか見ないほうの竣です(?)
+          </li>
+          <li>
+            山と花, 特に<a
+              href="https://ja.wikipedia.org/wiki/%E8%85%90%E7%94%9F%E6%A4%8D%E7%89%A9"
+              >腐生植物</a
+            >に興味があります.
+          </li>
+          <li>
+            おすすめ小説: 町田康「告白」, いしいしんじ「麦踏みクーツェ」,
+            中島らも「永遠も半ばを過ぎて」, 古川日出男「アラビアと夜の種族」,
+            etc.
+          </li>
+        </ul>
+
+        <div class="footer">Last updated: <span id="last-updated"></span></div>
+        <script>
+          document.getElementById("last-updated").textContent = new Date(
+            document.lastModified
+          )
+            .toISOString()
+            .slice(0, 10);
+        </script>
+      </main>
+    </div>
+  </body>
+</html>

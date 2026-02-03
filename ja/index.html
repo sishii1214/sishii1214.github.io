@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-D7BH66HRJ7"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-D7BH66HRJ7");
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>石井 竣</title>
+    <link rel="stylesheet" href="/assets/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p class="site-title">Shun Ishii</p>
+        <p class="sub">Keio University / JSPS postdoctoral fellow</p>
+
+        <nav>
+          <a href="index.html" aria-current="page">ホーム</a>
+          <a href="research.html">研究</a>
+          <a href="papers.html">論文</a>
+          <a href="talks.html">講演</a>
+          <a href="cv.html">履歴</a>
+          <a href="misc.html">雑多</a>
+        </nav>
+
+        <div class="lang-switch" aria-label="Language switch">
+          <span class="is-current">日本語</span>
+          <span class="sep">/</span>
+          <a href="/">English</a>
+        </div>
+      </header>
+
+      <main>
+        <h1>自己紹介</h1>
+
+        <div class="profile">
+          <img class="avatar" src="/assets/portrait.jpg" alt="Shun Ishii" />
+          <div>
+            <ul>
+              <li>名前: 石井 竣 (いしい しゅん)</li>
+              <li>
+                身分: 日本学術振興会特別研究員(PD), 受入教員:
+                <a href="https://www.math.keio.ac.jp/~bannai/jp/"
+                  >坂内健一教授</a
+                >
+              </li>
+              <li>専門: 整数論の研究をしています. Galois理論が好きです.</li>
+            </ul>
+            <div class="kv">
+              <div class="k">メール</div>
+              <div>ishii[dot]shun[at]keio.jp</div>
+              <div class="k">リンク</div>
+              <div>
+                <a href="https://researchmap.jp/shun_ishii">researchmap</a> ·
+                <a href="https://orcid.org/0009-0004-8276-1053">ORCID</a> ·
+                <a
+                  href="https://arxiv.org/search/?query=Ishii%2C+Shun&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+                  >arXiv</a
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <hr />
+
+        <h1>予定</h1>
+        <ul>
+          <li>
+            (2026.02.19-20) Anabelian Geometry in 大岡山.
+            局所体の外部自己同型群の話をします.
+          </li>
+          <li>
+            (2026.03.14-17) プロジェクト研究集会2025.
+            Rasmussen-Tamagawa予想の話をします.
+          </li>
+          <li>
+            (2026.03.19-22) 第2回信州整数論小研究集会.
+            一般化Gross-Kudla-Schoenサイクルの話をします.
+          </li>
+        </ul>
+
+        <div class="footer">Last updated: <span id="last-updated"></span></div>
+        <script>
+          document.getElementById("last-updated").textContent = new Date(
+            document.lastModified
+          )
+            .toISOString()
+            .slice(0, 10);
+        </script>
+      </main>
+    </div>
+  </body>
+</html>
